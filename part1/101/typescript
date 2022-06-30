@@ -1,0 +1,102 @@
+Script started on 2022-06-30 11:45:49+03:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="113" LINES="49"]
+[?25l[?7l  
+  ⠀⠀⡶⠛⠲⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡶⠚⢶⡀⠀
+  ⢰⠛⠃⠀⢠⣏⠀⠀⠀⠀⣀⣠⣤⣤⣤⣤⣤⣤⣄⣀⡀⠀⠀⠀⣸⠇⠀⠈⠙⣧
+  ⠸⣦⣤⣄⠀⠙⢷⣤⣶⠟⠛⢉⣁⣤⣤⣤⣤⣀⣉⠙⠻⢷⣤⡾⠋⢀⣤⣤⣴⠏
+  ⠀⠀⠀⠈⠳⣤⡾⠋⣀⣴⣿⣿⠿⠿⠟⠛⠿⠿⣿⣿⣶⣄⠙⢿⣦⠟⠁⠀⠀⠀
+  ⠀⠀⠀⢀⣾⠟⢀⣾⣿⠟⠋        ⠉⠻⣿⣷⡄⠹⣷⡀⠀⠀⠀
+  ⠀⠀⠀⣾⡏⢠⣿⣿⡯⠤⠤⠤⠒⠒⠒⠒⠒⠒⠒⠤⠤⠽⣿⣿⡆⠹⣷⡀⠀⠀
+  ⠀⠀⢸⣟⣠⡿⠿⠟⠒⣒⣒⣉⣉⣉⣉⣉⣉⣉⣉⣉⣒⣒⡛⠻⠿⢤⣹⣇⠀⠀
+  ⠀⠀⣾⡭⢤⣤⣠⡞⠉⠁⢀⣀⣀⠀⠀⠀⠀⢀⣀⣀⠀⠈⢹⣦⣤⡤⠴⣿⠀⠀
+  ⠀⠀⣿⡇⢸⣿⣿⣇⠀⣼⣿⣿⣿⣷⠀⠀⣼⣿⣿⣿⣷⠀⢸⣿⣿⡇⠀⣿⠀⠀
+  ⠀⠀⢻⡇⠸⣿⣿⣿⡄⢿⣿⣿⣿⡿⠀⠀⢿⣿⣿⣿⡿⢀⣿⣿⣿⡇⢸⣿⠀⠀
+  ⠀⠀⠸⣿⡀⢿⣿⣿⣿⣆⠉⠛⠋⠀⢴⣶⠀⠉⠛⠉⣠⣿⣿⣿⡿⠀⣾⠇⠀⠀
+  ⠀⠀⠀⢻⣷⡈⢻⣿⣿⣿⣿⣶⣤⣀⣈⣁⣀⡤⣴⣿⣿⣿⣿⡿⠁⣼⠏⠀⠀⠀
+  ⠀⠀⠀⢀⣽⣷⣄⠙⢿⣿⣿⡟⢲⠧⡦⠼⠤⢷⢺⣿⣿⡿⠋⣠⣾⢿⣄⠀⠀⠀
+  ⣰⠟⠛⠛⠁⣨⡿⢷⣤⣈⠙⢿⡙⠒⠓⠒⠒⠚⡹⠛⢁⣤⣾⠿⣧⡀⠙⠋⠙⣆
+  ⠹⣤⡀⠀⠐⡏⠀⠀⠉⠛⠿⣶⣿⣶⣤⣤⣤⣾⣷⠾⠟⠋⠀⠀⢸⡇⠀⢠⣤⠟
+  ⠀⠀⠳⢤⠾⠃⠀⠀⠀⠀⠀⠀⠈⠉⠉⠉⠉⠁⠀⠀⠀⠀⠀⠀⠘⠷⠤⠾⠁⠀[0m
+[17A[9999999D[35C[0m[1m[31m[1mmagneto[0m@[31m[1mcorsair[0m 
+[35C[0m---------------[0m 
+[35C[0m[31m[1mOS[0m[0m:[0m Debian GNU/Linux 11 (bullseye) x86_64[0m 
+[35C[0m[31m[1mKernel[0m[0m:[0m 5.10.0-15-amd64[0m 
+[35C[0m[31m[1mUptime[0m[0m:[0m 1 hour, 10 mins[0m 
+[35C[0m[31m[1mPackages[0m[0m:[0m 3063 (dpkg), 7 (flatpak)[0m 
+[35C[0m[31m[1mShell[0m[0m:[0m zsh 5.8[0m 
+[35C[0m[31m[1mResolution[0m[0m:[0m 1920x1080[0m 
+[35C[0m[31m[1mDE[0m[0m:[0m GNOME 3.38.6[0m 
+[35C[0m[31m[1mWM[0m[0m:[0m Mutter[0m 
+[35C[0m[31m[1mWM Theme[0m[0m:[0m dracula[0m 
+[35C[0m[31m[1mTheme[0m[0m:[0m dracula [GTK2/3][0m 
+[35C[0m[31m[1mIcons[0m[0m:[0m Tela-circle [GTK2/3][0m 
+[35C[0m[31m[1mTerminal[0m[0m:[0m script[0m 
+[35C[0m[31m[1mCPU[0m[0m:[0m AMD Ryzen 5 3600 (12) @ 3.950GHz[0m 
+[35C[0m[31m[1mGPU[0m[0m:[0m AMD ATI Radeon RX 5600 OEM/5600 XT / 5700/5700 XT[0m 
+[35C[0m[31m[1mMemory[0m[0m:[0m 4189MiB / 15980MiB[0m 
+
+[35C[30m[40m   [31m[41m   [32m[42m   [33m[43m   [34m[44m   [35m[45m   [36m[46m   [37m[47m   [m
+[35C[38;5;8m[48;5;8m   [38;5;9m[48;5;9m   [38;5;10m[48;5;10m   [38;5;11m[48;5;11m   [38;5;12m[48;5;12m   [38;5;13m[48;5;13m   [38;5;14m[48;5;14m   [38;5;15m[48;5;15m   [m
+
+
+[?25h[?7h[1m[7m%[27m[1m[0m                                                                                                                 ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/101]1;..022/part1/101[0m[27m[24m[J[01;32m➜  [36m101[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[32ml[39m[32ml[32ms[39m[?1l>[?2004l
+]2;ls --color=tty]1;lsDockerfile  log-output.py  typescript
+[1m[7m%[27m[1m[0m                                                                                                                 ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/101]1;..022/part1/101[0m[27m[24m[J[01;32m➜  [36m101[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[32mls[39m[32ml[39m[39m [39m [32md[39m[33md[33mo[39m[32md[32mo[32mcker[39m build -t maroctamorg/log-output [4m.[24m[?1l>[?2004l
+]2;docker build -t maroctamorg/log-output .]1;dockerSending build context to Docker daemon  3.584kB
+Step 1/4 : FROM python:latest
+ ---> 0f95b1e38607
+Step 2/4 : WORKDIR /srv/log-output
+ ---> Using cache
+ ---> b298a1113452
+Step 3/4 : COPY log-output.py ./
+ ---> Using cache
+ ---> fad733aba907
+Step 4/4 : CMD ["python3", "-u", "log-output.py"]
+ ---> Using cache
+ ---> 60ef9f63ac3d
+Successfully built 60ef9f63ac3d
+Successfully tagged maroctamorg/log-output:latest
+[1m[7m%[27m[1m[0m                                                                                                                 ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/101]1;..022/part1/101[0m[27m[24m[J[01;32m➜  [36m101[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[32md[39m[33md[33mo[39m[1m[31md[1m[31mo[1m[31mc[0m[39m[1m[31mc[1m[31mk[0m[39m[0m[32md[0m[32mo[0m[32mc[0m[32mk[32mer[39m[1m[31md[1m[31mo[1m[31mc[1m[31mk[1m[31me[1m[31mr[1m[31mp[0m[39m[0m[32md[0m[32mo[0m[32mc[0m[32mk[0m[32me[0m[32mr[39m[0m[39m  p
+[0mpause   -- Pause all processes within one or more containers
+plugin  -- Manage plugins
+port    -- List port mappings or a specific mapping for the container
+ps      -- List containers
+pull    -- Pull an image or a repository from a registry
+[Jpush    -- Push an image or a repository to a registry[J[6A[0m[27m[24m[20C[32mdocker[39m p[K
+[J[A[28Cush maroctamorg/log-output[?1l>[?2004l
+[J]2;docker push maroctamorg/log-output]1;dockerUsing default tag: latest
+The push refers to repository [docker.io/maroctamorg/log-output]
+
+[1A[2Kf06d8c29877a: Preparing [1B
+[1A[2K41eba0a3aa82: Preparing [1B
+[1A[2Ka84ac09f498f: Preparing [1B
+[1A[2K9d17ba627a77: Preparing [1B
+[1A[2Ka8db90eb5ce0: Preparing [1B
+[1A[2Kca5c6d5c3d01: Preparing [1B
+[1A[2K33a247b4fc52: Preparing [1B
+[1A[2K5afd661c6106: Preparing [1B
+[1A[2K66183893ba24: Preparing [1B
+[1A[2K6840c8ff46bd: Preparing [1B
+[1A[2K97d5fec864d8: Preparing [1B[4A[2K5afd661c6106: Waiting [4B[3A[2K66183893ba24: Waiting [3B[2A[2K6840c8ff46bd: Waiting [2B[5A[2K33a247b4fc52: Waiting [5B[6A[2Kca5c6d5c3d01: Waiting [6B[1A[2K97d5fec864d8: Waiting [1B[7A[2Ka8db90eb5ce0: Layer already exists [7B[8A[2K9d17ba627a77: Layer already exists [8B[11A[2Kf06d8c29877a: Layer already exists [11B[9A[2Ka84ac09f498f: Layer already exists [9B[10A[2K41eba0a3aa82: Layer already exists [10B[4A[2K5afd661c6106: Layer already exists [4B[5A[2K33a247b4fc52: Layer already exists [5B[6A[2Kca5c6d5c3d01: Layer already exists [6B[3A[2K66183893ba24: Layer already exists [3B[2A[2K6840c8ff46bd: Layer already exists [2B[1A[2K97d5fec864d8: Layer already exists [1Blatest: digest: sha256:e5ab104f9feec679c0e6139255b927f9814c5fc6ec35eadec00bb431e0907b46 size: 2632
+[1m[7m%[27m[1m[0m                                                                                                                 ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/101]1;..022/part1/101[0m[27m[24m[J[01;32m➜  [36m101[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[32md[39m[33md[33mo[39m[32md[39m[39m [39m [1m[31mk[0m[39m[1m[31mk[1m[31mu[0m[39m[1m[31mk[1m[31mu[1m[31mb[0m[39m[1m[31mb[1m[31me[0m[39m[0m[32mk[0m[32mu[0m[32mb[0m[32me[32mctl[39m delete deployments.apps [4mlog-output[24m[34Dlogs -f log-output-7f959[24m4[24mf[24mc[24mc[24mf[24m-[24m9[24m5[24mr[24m57[35Dget po                             [29D[?1l>[?2004l
+]2;kubectl get po]1;kubectlNAME                                  READY   STATUS    RESTARTS   AGE
+hash-generator-dep-86cf6b6f85-8blms   1/1     Running   0          29m
+[1m[7m%[27m[1m[0m                                                                                                                 ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/101]1;..022/part1/101[0m[27m[24m[J[01;32m➜  [36m101[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[32mkubectl[39m get po[14D[32md[32mo[32mc[32mk[32me[32mr[39m[39m push maroctamorg/log-output[27Dbuild -t maroctamorg/log-output [4m.[24m[40D[32ml[32ms[39m[39m [39m [39m [39m                                  [24m [38D[32ms[32mc[32mript[39m[32mr[32mm[39m[39m [39m[4mt[39m[4my[39m[4mp[4mescript[24m[13D[32ms[32mc[32mr[24m[32mi[24m[32mp[24m[32mt[39m[24m [24m [24m [24m [24m [24m [24m [32ml[32ms[39m[39m [39m [39m [39m [32md[32mo[32mcker[39m build -t maroctamorg/log-output [4m.[24m[33Dpush[4P[24C[24m     [34D[32mk[32mu[32mb[32me[32mc[32mt[32ml[39m get po                    [20D[14D[39m [39m [39m [39m [39m [39m [39m        [14D[1m[31mk[0m[39m[1m[31mk[1m[31mu[0m[39m[1m[31mk[1m[31mu[1m[31mb[0m[39m[1m[31mb[1m[31me[0m[39m[0m[32mk[0m[32mu[0m[32mb[0m[32me[32mctl[39m[1m [0m[0m p create deployment log-output --image=maroctamorg/log-output[?1l>[?2004l
+]2;kubectl create deployment log-output --image=maroctamorg/log-output]1;kubectldeployment.apps/log-output created
+[1m[7m%[27m[1m[0m                                                                                                                 ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/101]1;..022/part1/101[0m[27m[24m[J[01;32m➜  [36m101[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[32mkubectl[39m create deployment log-output --image=maroctamorg/log-output[59Dget po                                                     [53D[?1l>[?2004l
+]2;kubectl get po]1;kubectlNAME                                  READY   STATUS              RESTARTS   AGE
+hash-generator-dep-86cf6b6f85-8blms   1/1     Running             0          29m
+log-output-7f9594fccf-jvh4t           0/1     ContainerCreating   0          2s
+[1m[7m%[27m[1m[0m                                                                                                                 ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/101]1;..022/part1/101[0m[27m[24m[J[01;32m➜  [36m101[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[32mkubectl[39m get po[?1l>[?2004l
+]2;kubectl get po]1;kubectlNAME                                  READY   STATUS    RESTARTS   AGE
+hash-generator-dep-86cf6b6f85-8blms   1/1     Running   0          29m
+log-output-7f9594fccf-jvh4t           1/1     Running   0          8s
+[1m[7m%[27m[1m[0m                                                                                                                 ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/101]1;..022/part1/101[0m[27m[24m[J[01;32m➜  [36m101[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[1m[31mk[0m[39m[1m[31mk[1m[31mu[0m[39m[1m[31mk[1m[31mu[1m[31mb[0m[39m[0m[32mk[0m[32mu[0m[32mb[32mectl[39m[1m [0m[0m [4ml[24m[4ml[4mo[24m[24ml[24mogs -f log-output-7f9594fccf-95r57                7f9594fccf-jvh4t[1m [0m[0m [?1l>[?2004l
+]2;kubectl logs -f log-output-7f9594fccf-jvh4t]1;kubectl2022-06-30 08:46:23.336917:	hkgicWalIfZhlXAFtuCu
+2022-06-30 08:46:28.341289:	hkgicWalIfZhlXAFtuCu
+2022-06-30 08:46:33.346364:	hkgicWalIfZhlXAFtuCu
+2022-06-30 08:46:38.347027:	hkgicWalIfZhlXAFtuCu
+2022-06-30 08:46:43.347121:	hkgicWalIfZhlXAFtuCu
+^C
+[1m[7m%[27m[1m[0m                                                                                                                 ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/101]1;..022/part1/101[0m[27m[24m[J[01;31m➜  [36m101[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[?2004l
+
+Script done on 2022-06-30 11:46:47+03:00 [COMMAND_EXIT_CODE="130"]

@@ -1,0 +1,175 @@
+Script started on 2022-07-01 14:02:23+03:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="83" LINES="54"]
+[?25l[?7l  
+  ⠀⠀⡶⠛⠲⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡶⠚⢶⡀⠀
+  ⢰⠛⠃⠀⢠⣏⠀⠀⠀⠀⣀⣠⣤⣤⣤⣤⣤⣤⣄⣀⡀⠀⠀⠀⣸⠇⠀⠈⠙⣧
+  ⠸⣦⣤⣄⠀⠙⢷⣤⣶⠟⠛⢉⣁⣤⣤⣤⣤⣀⣉⠙⠻⢷⣤⡾⠋⢀⣤⣤⣴⠏
+  ⠀⠀⠀⠈⠳⣤⡾⠋⣀⣴⣿⣿⠿⠿⠟⠛⠿⠿⣿⣿⣶⣄⠙⢿⣦⠟⠁⠀⠀⠀
+  ⠀⠀⠀⢀⣾⠟⢀⣾⣿⠟⠋        ⠉⠻⣿⣷⡄⠹⣷⡀⠀⠀⠀
+  ⠀⠀⠀⣾⡏⢠⣿⣿⡯⠤⠤⠤⠒⠒⠒⠒⠒⠒⠒⠤⠤⠽⣿⣿⡆⠹⣷⡀⠀⠀
+  ⠀⠀⢸⣟⣠⡿⠿⠟⠒⣒⣒⣉⣉⣉⣉⣉⣉⣉⣉⣉⣒⣒⡛⠻⠿⢤⣹⣇⠀⠀
+  ⠀⠀⣾⡭⢤⣤⣠⡞⠉⠁⢀⣀⣀⠀⠀⠀⠀⢀⣀⣀⠀⠈⢹⣦⣤⡤⠴⣿⠀⠀
+  ⠀⠀⣿⡇⢸⣿⣿⣇⠀⣼⣿⣿⣿⣷⠀⠀⣼⣿⣿⣿⣷⠀⢸⣿⣿⡇⠀⣿⠀⠀
+  ⠀⠀⢻⡇⠸⣿⣿⣿⡄⢿⣿⣿⣿⡿⠀⠀⢿⣿⣿⣿⡿⢀⣿⣿⣿⡇⢸⣿⠀⠀
+  ⠀⠀⠸⣿⡀⢿⣿⣿⣿⣆⠉⠛⠋⠀⢴⣶⠀⠉⠛⠉⣠⣿⣿⣿⡿⠀⣾⠇⠀⠀
+  ⠀⠀⠀⢻⣷⡈⢻⣿⣿⣿⣿⣶⣤⣀⣈⣁⣀⡤⣴⣿⣿⣿⣿⡿⠁⣼⠏⠀⠀⠀
+  ⠀⠀⠀⢀⣽⣷⣄⠙⢿⣿⣿⡟⢲⠧⡦⠼⠤⢷⢺⣿⣿⡿⠋⣠⣾⢿⣄⠀⠀⠀
+  ⣰⠟⠛⠛⠁⣨⡿⢷⣤⣈⠙⢿⡙⠒⠓⠒⠒⠚⡹⠛⢁⣤⣾⠿⣧⡀⠙⠋⠙⣆
+  ⠹⣤⡀⠀⠐⡏⠀⠀⠉⠛⠿⣶⣿⣶⣤⣤⣤⣾⣷⠾⠟⠋⠀⠀⢸⡇⠀⢠⣤⠟
+  ⠀⠀⠳⢤⠾⠃⠀⠀⠀⠀⠀⠀⠈⠉⠉⠉⠉⠁⠀⠀⠀⠀⠀⠀⠘⠷⠤⠾⠁⠀[0m
+[17A[9999999D[35C[0m[1m[31m[1mmagneto[0m@[31m[1mcorsair[0m 
+[35C[0m---------------[0m 
+[35C[0m[31m[1mOS[0m[0m:[0m Debian GNU/Linux 11 (bullseye) x86_64[0m 
+[35C[0m[31m[1mKernel[0m[0m:[0m 5.10.0-15-amd64[0m 
+[35C[0m[31m[1mUptime[0m[0m:[0m 13 hours, 26 mins[0m 
+[35C[0m[31m[1mPackages[0m[0m:[0m 3061 (dpkg), 7 (flatpak)[0m 
+[35C[0m[31m[1mShell[0m[0m:[0m zsh 5.8[0m 
+[35C[0m[31m[1mResolution[0m[0m:[0m 1920x1080[0m 
+[35C[0m[31m[1mDE[0m[0m:[0m GNOME 3.38.6[0m 
+[35C[0m[31m[1mWM[0m[0m:[0m Mutter[0m 
+[35C[0m[31m[1mWM Theme[0m[0m:[0m dracula[0m 
+[35C[0m[31m[1mTheme[0m[0m:[0m dracula [GTK2/3][0m 
+[35C[0m[31m[1mIcons[0m[0m:[0m Tela-circle [GTK2/3][0m 
+[35C[0m[31m[1mTerminal[0m[0m:[0m script[0m 
+[35C[0m[31m[1mCPU[0m[0m:[0m AMD Ryzen 5 3600 (12) @ 3.950GHz[0m 
+[35C[0m[31m[1mGPU[0m[0m:[0m AMD ATI Radeon RX 5600 OEM/5600 XT / 5700/5700 XT[0m 
+[35C[0m[31m[1mMemory[0m[0m:[0m 5387MiB / 15980MiB[0m 
+
+[35C[30m[40m   [31m[41m   [32m[42m   [33m[43m   [34m[44m   [35m[45m   [36m[46m   [37m[47m   [m
+[35C[38;5;8m[48;5;8m   [38;5;9m[48;5;9m   [38;5;10m[48;5;10m   [38;5;11m[48;5;11m   [38;5;12m[48;5;12m   [38;5;13m[48;5;13m   [38;5;14m[48;5;14m   [38;5;15m[48;5;15m   [m
+
+
+[?25h[?7h[1m[7m%[27m[1m[0m                                                                                   ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/proj_todo_102-104-105]1;..o_102-104-105[0m[27m[24m[J[01;32m➜  [36mproj_todo_102-104-105[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[32ml[39m[32ml[32ms[39m[?1l>[?2004l
+]2;ls --color=tty]1;lsDockerfile  [0m[01;34mmanifests[0m     package-lock.json  typescript105
+index.html  [01;34mnode_modules[0m  [01;34mpublic[0m             typescript106
+index.js    package.json  typescript104
+[1m[7m%[27m[1m[0m                                                                                   ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/proj_todo_102-104-105]1;..o_102-104-105[0m[27m[24m[J[01;32m➜  [36mproj_todo_102-104-105[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[1m[31mc[0m[39m[1m[31mc[1m[31ma[0m[39m[0m[32mc[0m[32ma[32mt[39m [4mm[24m[4mm[4ma[24m[4ma[4mnifests[1m[4m/[0m[24m[0m[4m/[4ms[24m[4ms[4mervice.yaml[24m[1m [0m[0m [?1l>[?2004l
+]2;cat manifests/service.yaml]1;catapiVersion: v1
+kind: Service
+metadata:
+  name: todo-svc
+spec:
+  type: NodePort
+  selector:
+    app: todo # This is the app as declared in the deployment.
+  ports:
+    - name: http
+      nodePort: 30080 # This is the port that is available outside. Value for nodePort can be between 30000-32767
+      protocol: TCP
+      port: 1234 # This is a port that is available to the cluster, in this case it can be ~ anything
+      targetPort: 6000 # This is the target port
+[1m[7m%[27m[1m[0m                                                                                   ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/proj_todo_102-104-105]1;..o_102-104-105[0m[27m[24m[J[01;32m➜  [36mproj_todo_102-104-105[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[1m[31mv[0m[39m[0m[32mv[32mi[39m[32mv[32mi[32mm[39m[32mv[32mi[39m[39m [1m[31mv[0m[39m[39m [0m[39m [1m[31mk[0m[39m[1m[31mk[1m[31mu[0m[39m[1m[31mk[1m[31mu[1m[31mb[0m[39m[0m[32mk[0m[32mu[0m[32mb[32mectl[39m[1m [0m[0m [1m[31mk[1m[31mu[1m[31mb[1m[31me[1m[31mc[1m[31mt[0m[39m[39m [1m[31mc[0m[39m[0m[39m [1m[31me[0m[39m[0m[39m [1m[31mb[0m[39m[0m[39m [1m[31mk[1m[31mu[0m[39m[0m[39m [1m[31mk[0m[39m[0m[39m [1m[31mk[1m[31m3[0m[39m[0m[32mk[0m[32m3[32md[39m[1m [0m[0m cluster[1m [0m[0m [4mi[24m[4mi[4mn[24m[14D[39mk[39m3[39md[9C[24mi[24mn[14D[32mk[32m3[32md[39m[9C[4mi[24m [24m list[1m [0m[0m [?1l>[?2004l
+]2;k3d cluster list]1;k3dNAME          SERVERS   AGENTS   LOADBALANCER
+k3s-default   1/1       2/2      true
+[1m[7m%[27m[1m[0m                                                                                   ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/proj_todo_102-104-105]1;..o_102-104-105[0m[27m[24m[J[01;32m➜  [36mproj_todo_102-104-105[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[1m[31mk[0m[39m[1m[31mk[1m[31mu[0m[39m[1m[31mk[1m[31mu[1m[31mb[0m[39m[1m[31mb[1m[31me[0m[39m[0m[32mk[0m[32mu[0m[32mb[0m[32me[32mctl[39m[1m [0m
+[0malpha          -- Commands for features in alpha
+annotate       -- Update the annotations on a resource
+api-resources  -- Print the supported API resources on the server
+api-versions   -- Print the supported API versions on the server, in the form o
+apply          -- Apply a configuration to a resource by file name or stdin
+attach         -- Attach to a running container
+auth           -- Inspect authorization
+autoscale      -- Auto-scale a deployment, replica set, stateful set, or replic
+certificate    -- Modify certificate resources.
+cluster-info   -- Display cluster information
+completion     -- Output shell completion code for the specified shell (bash, z
+config         -- Modify kubeconfig files
+cordon         -- Mark node as unschedulable
+cp             -- Copy files and directories to and from containers
+create         -- Create a resource from a file or from stdin
+debug          -- Create debugging sessions for troubleshooting workloads and n
+delete         -- Delete resources by file names, stdin, resources and names, o
+describe       -- Show details of a specific resource or group of resources
+diff           -- Diff the live version against a would-be applied version
+drain          -- Drain node in preparation for maintenance
+edit           -- Edit a resource on the server
+exec           -- Execute a command in a container
+explain        -- Get documentation for a resource
+expose         -- Take a replication controller, service, deployment or pod and
+get            -- Display one or many resources
+help           -- Help about any command
+kustomize      -- Build a kustomization target from a directory or URL.
+label          -- Update the labels on a resource
+logs           -- Print the logs for a container in a pod
+options        -- Print the list of flags inherited by all commands
+patch          -- Update fields of a resource
+plugin         -- Provides utilities for interacting with plugins
+port-forward   -- Forward one or more local ports to a pod
+proxy          -- Run a proxy to the Kubernetes API server
+replace        -- Replace a resource by file name or stdin
+rollout        -- Manage the rollout of a resource
+run            -- Run a particular image on the cluster
+scale          -- Set a new size for a deployment, replica set, or replication 
+set            -- Set specific features on objects
+taint          -- Update the taints on one or more nodes
+top            -- Display resource (CPU/memory) usage
+uncordon       -- Mark node as schedulable
+version        -- Print the client and server version information
+[Jwait           -- Experimental: Wait for a specific condition on one or many re[J[44A[0m[27m[24m[38C[32mkubectl[39m[1m [0m[K[0m get [4mp[24m[24mpo
+[J[A[52Cd[?1l>[?2004l
+[J]2;kubectl get pod]1;kubectlNAME                    READY   STATUS    RESTARTS   AGE
+todo-6b9c45f986-grp6t   1/1     Running   0          2m33s
+[1m[7m%[27m[1m[0m                                                                                   ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/proj_todo_102-104-105]1;..o_102-104-105[0m[27m[24m[J[01;32m➜  [36mproj_todo_102-104-105[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[1m[31mc[0m[39m[1m[31mc[1m[31ml[0m[39m[1m[31mc[0m[39m[0m[39m [1m[31mc[1m[31mu[0m[39m[1m[31mc[1m[31mu[1m[31mr[0m[39m[0m[32mc[0m[32mu[0m[32mr[32ml[39m http    lo ocalhost:6000    8082[?1l>[?2004l
+]2;curl localhost:8082]1;curl<!DOCTYPE html>
+<html>
+	<header>
+		<meta charset=utf-8>
+		<title>Hermes</title>
+	</header>
+	<style>
+		body {
+			background-color: #00394d;
+		}
+		.center {
+			 display: flex;
+			 justify-content: center;
+			 align-items: center;
+		}
+	</style>
+	<body>
+		<div class="container" id="container">
+			<h1 id="header" class="center">SELECT A SERVICE</h1>
+			<div id="kavita" class="center">
+				<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+				<svg
+					width="150px"
+					height="150px"
+					version="1.1"
+					id="kavita"
+					<g 
+						id="layer1">
+						<rect
+							 style="fill:none;stroke-width:0.264999;stroke-linejoin:round"
+							 id="rect111"/>
+						<g
+							 aria-label="K"
+							 transform="matrix(4.4813101,0,0,4.4202393,188.47934,-537.65423)"
+							 id="text44"
+							 style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;fill:#ffffff">
+							<g
+								 id="g373">
+								<path
+									 id="rect19"
+									 style="fill:#ff5555;stroke-width:0.225006;stroke-linejoin:round"
+									 transform="matrix(0.21274,0.06828925,0,0.22623209,-42.058982,121.63464)"
+									 d="M 6.8156733e-6,-7.0920032e-6 H 68.18035 V 109.41943 H 6.8156733e-6 Z" />
+								<path
+									 id="rect19-4"
+									 style="fill:#ff0000;stroke-width:0.225006;stroke-linejoin:round"
+									 transform="matrix(-0.21274,0.06828925,0,0.22623209,-42.058982,121.63464)"
+									 d="m -136.36069,41.161137 h 68.180346 V 150.58057 h -68.180346 z" />
+								<path
+									 d="m -29.774003,127.74765 v 18.01446 h -3.569026 v -18.01446 z m 5.926666,18.01446 -5.79641,-9.61292 5.67918,-8.40154 h 3.829538 l -5.783385,8.14102 6.278359,9.87344 z"
+									 style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:25.4px;font-family:'Fira Code';fill:#ffffff"
+									 id="path74" />
+							</g>
+						</g>
+					</g>
+				</svg>
+			</div>
+			<p id="demo" class="center"></p>
+		</div>
+	</body>
+</html>
+[1m[7m%[27m[1m[0m                                                                                   ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/proj_todo_102-104-105]1;..o_102-104-105[0m[27m[24m[J[01;32m➜  [36mproj_todo_102-104-105[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[?2004l
+
+Script done on 2022-07-01 14:03:18+03:00 [COMMAND_EXIT_CODE="0"]

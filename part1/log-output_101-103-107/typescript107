@@ -1,0 +1,128 @@
+Script started on 2022-07-01 15:16:00+03:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="83" LINES="54"]
+[?25l[?7l  
+  ⠀⠀⡶⠛⠲⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡶⠚⢶⡀⠀
+  ⢰⠛⠃⠀⢠⣏⠀⠀⠀⠀⣀⣠⣤⣤⣤⣤⣤⣤⣄⣀⡀⠀⠀⠀⣸⠇⠀⠈⠙⣧
+  ⠸⣦⣤⣄⠀⠙⢷⣤⣶⠟⠛⢉⣁⣤⣤⣤⣤⣀⣉⠙⠻⢷⣤⡾⠋⢀⣤⣤⣴⠏
+  ⠀⠀⠀⠈⠳⣤⡾⠋⣀⣴⣿⣿⠿⠿⠟⠛⠿⠿⣿⣿⣶⣄⠙⢿⣦⠟⠁⠀⠀⠀
+  ⠀⠀⠀⢀⣾⠟⢀⣾⣿⠟⠋        ⠉⠻⣿⣷⡄⠹⣷⡀⠀⠀⠀
+  ⠀⠀⠀⣾⡏⢠⣿⣿⡯⠤⠤⠤⠒⠒⠒⠒⠒⠒⠒⠤⠤⠽⣿⣿⡆⠹⣷⡀⠀⠀
+  ⠀⠀⢸⣟⣠⡿⠿⠟⠒⣒⣒⣉⣉⣉⣉⣉⣉⣉⣉⣉⣒⣒⡛⠻⠿⢤⣹⣇⠀⠀
+  ⠀⠀⣾⡭⢤⣤⣠⡞⠉⠁⢀⣀⣀⠀⠀⠀⠀⢀⣀⣀⠀⠈⢹⣦⣤⡤⠴⣿⠀⠀
+  ⠀⠀⣿⡇⢸⣿⣿⣇⠀⣼⣿⣿⣿⣷⠀⠀⣼⣿⣿⣿⣷⠀⢸⣿⣿⡇⠀⣿⠀⠀
+  ⠀⠀⢻⡇⠸⣿⣿⣿⡄⢿⣿⣿⣿⡿⠀⠀⢿⣿⣿⣿⡿⢀⣿⣿⣿⡇⢸⣿⠀⠀
+  ⠀⠀⠸⣿⡀⢿⣿⣿⣿⣆⠉⠛⠋⠀⢴⣶⠀⠉⠛⠉⣠⣿⣿⣿⡿⠀⣾⠇⠀⠀
+  ⠀⠀⠀⢻⣷⡈⢻⣿⣿⣿⣿⣶⣤⣀⣈⣁⣀⡤⣴⣿⣿⣿⣿⡿⠁⣼⠏⠀⠀⠀
+  ⠀⠀⠀⢀⣽⣷⣄⠙⢿⣿⣿⡟⢲⠧⡦⠼⠤⢷⢺⣿⣿⡿⠋⣠⣾⢿⣄⠀⠀⠀
+  ⣰⠟⠛⠛⠁⣨⡿⢷⣤⣈⠙⢿⡙⠒⠓⠒⠒⠚⡹⠛⢁⣤⣾⠿⣧⡀⠙⠋⠙⣆
+  ⠹⣤⡀⠀⠐⡏⠀⠀⠉⠛⠿⣶⣿⣶⣤⣤⣤⣾⣷⠾⠟⠋⠀⠀⢸⡇⠀⢠⣤⠟
+  ⠀⠀⠳⢤⠾⠃⠀⠀⠀⠀⠀⠀⠈⠉⠉⠉⠉⠁⠀⠀⠀⠀⠀⠀⠘⠷⠤⠾⠁⠀[0m
+[17A[9999999D[35C[0m[1m[31m[1mmagneto[0m@[31m[1mcorsair[0m 
+[35C[0m---------------[0m 
+[35C[0m[31m[1mOS[0m[0m:[0m Debian GNU/Linux 11 (bullseye) x86_64[0m 
+[35C[0m[31m[1mKernel[0m[0m:[0m 5.10.0-15-amd64[0m 
+[35C[0m[31m[1mUptime[0m[0m:[0m 14 hours, 39 mins[0m 
+[35C[0m[31m[1mPackages[0m[0m:[0m 3061 (dpkg), 7 (flatpak)[0m 
+[35C[0m[31m[1mShell[0m[0m:[0m zsh 5.8[0m 
+[35C[0m[31m[1mResolution[0m[0m:[0m 1920x1080[0m 
+[35C[0m[31m[1mDE[0m[0m:[0m GNOME 3.38.6[0m 
+[35C[0m[31m[1mWM[0m[0m:[0m Mutter[0m 
+[35C[0m[31m[1mWM Theme[0m[0m:[0m dracula[0m 
+[35C[0m[31m[1mTheme[0m[0m:[0m dracula [GTK2/3][0m 
+[35C[0m[31m[1mIcons[0m[0m:[0m Tela-circle [GTK2/3][0m 
+[35C[0m[31m[1mTerminal[0m[0m:[0m script[0m 
+[35C[0m[31m[1mCPU[0m[0m:[0m AMD Ryzen 5 3600 (12) @ 3.950GHz[0m 
+[35C[0m[31m[1mGPU[0m[0m:[0m AMD ATI Radeon RX 5600 OEM/5600 XT / 5700/5700 XT[0m 
+[35C[0m[31m[1mMemory[0m[0m:[0m 4750MiB / 15980MiB[0m 
+
+[35C[30m[40m   [31m[41m   [32m[42m   [33m[43m   [34m[44m   [35m[45m   [36m[46m   [37m[47m   [m
+[35C[38;5;8m[48;5;8m   [38;5;9m[48;5;9m   [38;5;10m[48;5;10m   [38;5;11m[48;5;11m   [38;5;12m[48;5;12m   [38;5;13m[48;5;13m   [38;5;14m[48;5;14m   [38;5;15m[48;5;15m   [m
+
+
+[?25h[?7h[1m[7m%[27m[1m[0m                                                                                   ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/log-output_101-103-107]1;..t_101-103-107[0m[27m[24m[J[01;32m➜  [36mlog-output_101-103-107[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[32ml[39m[32ml[32ms[39m[?1l>[?2004l
+]2;ls --color=tty]1;lsDockerfile          log-output.py  package.json       typescript103
+Dockerfile_101-103  [0m[01;34mmanifests[0m      package-lock.json  typescript107
+index.js            [01;34mnode_modules[0m   typescript101
+[1m[7m%[27m[1m[0m                                                                                   ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/log-output_101-103-107]1;..t_101-103-107[0m[27m[24m[J[01;32m➜  [36mlog-output_101-103-107[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[1m[31mc[0m[39m[1m[31mc[1m[31ma[0m[39m[0m[32mc[0m[32ma[32mt[39m [4mD[24m[4mD[4mo[24m[4mo[4mckerfile[24m[?1l>[?2004l
+]2;cat Dockerfile]1;catFROM node:alpine
+
+WORKDIR /srv/todo
+
+COPY package* ./
+
+RUN npm i
+
+COPY . .
+
+ENV PORT=6000
+
+CMD ["npm", "start"]
+[1m[7m%[27m[1m[0m                                                                                   ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/log-output_101-103-107]1;..t_101-103-107[0m[27m[24m[J[01;32m➜  [36mlog-output_101-103-107[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[32md[39m[33md[33mo[39m[1m[31md[1m[31mo[1m[31mc[0m[39m[1m[31mc[1m[31mk[0m[39m[1m[31mk[1m[31me[0m[39m[0m[32md[0m[32mo[0m[32mc[0m[32mk[0m[32me[32mr[39m build -t maroctamorg/log-output:latest [4m.[24m[K[?1l>[?2004l
+]2;docker build -t maroctamorg/log-output:latest .]1;dockerSending build context to Docker daemon  557.1kBSending build context to Docker daemon  2.485MB
+Step 1/7 : FROM node:alpine
+ ---> 515db77e67c7
+Step 2/7 : WORKDIR /srv/todo
+ ---> Using cache
+ ---> e425f0612808
+Step 3/7 : COPY package* ./
+ ---> Using cache
+ ---> 5cc1eec1820b
+Step 4/7 : RUN npm i
+ ---> Using cache
+ ---> 86973bf85b56
+Step 5/7 : COPY . .
+ ---> f346713381fc
+Step 6/7 : ENV PORT=6000
+ ---> Running in daab56dd1eb4
+Removing intermediate container daab56dd1eb4
+ ---> 9111f2b47057
+Step 7/7 : CMD ["npm", "start"]
+ ---> Running in 4cfb1286d17b
+Removing intermediate container 4cfb1286d17b
+ ---> 6aa0c7103ab4
+Successfully built 6aa0c7103ab4
+Successfully tagged maroctamorg/log-output:latest
+[1m[7m%[27m[1m[0m                                                                                   ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/log-output_101-103-107]1;..t_101-103-107[0m[27m[24m[J[01;32m➜  [36mlog-output_101-103-107[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[1m[31mo[0m[39m[0m[39m [32md[39m[33md[33mo[39m[1m[31md[1m[31mo[1m[31mc[0m[39m[1m[31mc[1m[31mk[0m[39m[1m[31mk[1m[31me[0m[39m[0m[32md[0m[32mo[0m[32mc[0m[32mk[0m[32me[32mr[39m [4mp[24m[24mpush maroctamorg/log-output[?1l>[?2004l
+]2;docker push maroctamorg/log-output]1;dockerUsing default tag: latest
+The push refers to repository [docker.io/maroctamorg/log-output]
+
+[1A[2Kd47f6f961474: Preparing [1B
+[1A[2Kea32702f2bdd: Preparing [1B
+[1A[2K4f34510c3ca4: Preparing [1B
+[1A[2K80c79b1b2bf2: Preparing [1B
+[1A[2K7962b4fa86f9: Preparing [1B
+[1A[2K70fff1b8b419: Preparing [1B
+[1A[2K67bb22608009: Preparing [1B
+[1A[2K24302eb7d908: Preparing [1B[1A[2K24302eb7d908: Waiting [1B[3A[2K70fff1b8b419: Waiting [3B[2A[2K67bb22608009: Waiting [2B[8A[2Kd47f6f961474: Pushing  34.21kB/2.079MB[8B[7A[2Kea32702f2bdd: Layer already exists [7B[6A[2K4f34510c3ca4: Layer already exists [6B[4A[2K7962b4fa86f9: Layer already exists [4B[5A[2K80c79b1b2bf2: Layer already exists [5B[8A[2Kd47f6f961474: Pushing  219.7kB/2.079MB[8B[8A[2Kd47f6f961474: Pushing  645.1kB/2.079MB[8B[2A[2K67bb22608009: Layer already exists [2B[1A[2K24302eb7d908: Layer already exists [1B[8A[2Kd47f6f961474: Pushing  974.6kB/2.079MB[8B[3A[2K70fff1b8b419: Layer already exists [3B[8A[2Kd47f6f961474: Pushing  1.138MB/2.079MB[8B[8A[2Kd47f6f961474: Pushing  2.487MB[8B[8A[2Kd47f6f961474: Pushed [8Blatest: digest: sha256:d71e1ee77e8aceba8ef3ba93f89071179ce0de57e2e5709d76cd7632dc0d405a size: 1994
+[1m[7m%[27m[1m[0m                                                                                   ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/log-output_101-103-107]1;..t_101-103-107[0m[27m[24m[J[01;32m➜  [36mlog-output_101-103-107[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[32md[39m[33md[33mo[39m[1m[31md[1m[31mo[1m[31mc[0m[39m[1m[31mc[1m[31mk[0m[39m[1m[31mk[1m[31me[0m[39m[0m[32md[0m[32mo[0m[32mc[0m[32mk[0m[32me[32mr[39m [1m[31md[1m[31mo[1m[31mc[1m[31mk[1m[31me[0m[39m[39m [1m[31mk[0m[39m[0m[39m [1m[31mc[0m[39m[0m[39m [0m[33md[0m[33mo[39m[0m[39m [32md[39m[39m [39m [1m[31mk[0m[39m[1m[31mk[1m[31mu[0m[39m[1m[31mk[1m[31mu[1m[31mb[0m[39m[0m[32mk[0m[32mu[0m[32mb[32mectl[39m[1m [0m[0m apply[1m [0m[0m -f [4mm[24m[4mm[4ma[24m[4ma[4mnifests[1m[4m/[0m[24m[4ms[24m[0m[24m [?1l>[?2004l
+]2;kubectl apply -f manifests]1;kubectldeployment.apps/log-output unchanged
+ingress.networking.k8s.io/log-output-ing unchanged
+service/log-output-svc unchanged
+[1m[7m%[27m[1m[0m                                                                                   ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/log-output_101-103-107]1;..t_101-103-107[0m[27m[24m[J[01;32m➜  [36mlog-output_101-103-107[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[1m[31mk[0m[39m[1m[31mk[1m[31mu[0m[39m[1m[31mk[1m[31mu[1m[31mb[0m[39m[1m[31mb[1m[31me[0m[39m[0m[32mk[0m[32mu[0m[32mb[0m[32me[32mctl[39m[1m [0m[0m delete[1m [0m[0m -f [4mm[24m[4mm[4ma[24m[4ma[4mnifests[1m[4m/[0m[24m[4ms[24m[0m[24m [?1l>[?2004l
+]2;kubectl delete -f manifests]1;kubectldeployment.apps "log-output" deleted
+ingress.networking.k8s.io "log-output-ing" deleted
+service "log-output-svc" deleted
+[1m[7m%[27m[1m[0m                                                                                   ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/log-output_101-103-107]1;..t_101-103-107[0m[27m[24m[J[01;32m➜  [36mlog-output_101-103-107[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[1m[31mk[0m[39m[1m[31mk[1m[31mu[0m[39m[1m[31mk[1m[31mu[1m[31mb[0m[39m[1m[31mb[1m[31me[0m[39m[0m[32mk[0m[32mu[0m[32mb[0m[32me[32mctl[39m[1m [0m[0m delete -f [4mmanifests[24m[19Dapply[P[13C [?1l>[?2004l
+]2;kubectl apply -f manifests]1;kubectldeployment.apps/log-output created
+ingress.networking.k8s.io/log-output-ing created
+service/log-output-svc created
+[1m[7m%[27m[1m[0m                                                                                   ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/log-output_101-103-107]1;..t_101-103-107[0m[27m[24m[J[01;32m➜  [36mlog-output_101-103-107[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[1m[31mk[0m[39m[0m[39m [1m[31mk[0m[39m[1m[31mk[1m[31mu[0m[39m[1m[31mk[1m[31mu[1m[31mb[0m[39m[1m[31mb[1m[31me[0m[39m[0m[32mk[0m[32mu[0m[32mb[0m[32me[32mctl[39m[1m [0m[0m get[1m [0m[0m svc,ing[?1l>[?2004l
+]2;kubectl get svc,ing]1;kubectlNAME                     TYPE        CLUSTER-IP     EXTERNAL-IP   PORT(S)    AGE
+service/kubernetes       ClusterIP   10.43.0.1      <none>        443/TCP    9m45s
+service/log-output-svc   ClusterIP   10.43.66.144   <none>        2345/TCP   6s
+
+NAME                                       CLASS    HOSTS   ADDRESS                            PORTS   AGE
+ingress.networking.k8s.io/log-output-ing   <none>   *       172.19.0.2,172.19.0.3,172.19.0.4   80      6s
+[1m[7m%[27m[1m[0m                                                                                   ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/log-output_101-103-107]1;..t_101-103-107[0m[27m[24m[J[01;32m➜  [36mlog-output_101-103-107[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[1m[31mk[0m[39m[1m[31mk[1m[31mu[0m[39m[1m[31mk[1m[31mu[1m[31mb[0m[39m[1m[31mb[1m[31me[0m[39m[0m[32mk[0m[32mu[0m[32mb[0m[32me[32mctl[39m[1m [0m[0m [4ml[24m[24mlogs -f log-output-976d899c4-5bp6t               [11D[4ml[4mo[4mg[4m-[4mo[4mu[4mt[4mp[4mu[4mt[24m [10D[24ml[24mo[24mg[24m-[24mo[24mu[24mt[24mp[24mu[24mt-976d899c4-qsjh2[1m [0m[0m [?1l>[?2004l
+]2;kubectl logs -f log-output-976d899c4-qsjh2]1;kubectl
+> log-output_101-103-107@1.0.0 start
+> node index.js
+
+Server running on port 6000
+12:17:4 - 02222e3a4082649df7c622c7f04114f3484b330a
+12:17:9 - 02222e3a4082649df7c622c7f04114f3484b330a
+12:17:14 - 02222e3a4082649df7c622c7f04114f3484b330a
+^C
+[1m[7m%[27m[1m[0m                                                                                   ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/log-output_101-103-107]1;..t_101-103-107[0m[27m[24m[J[01;31m➜  [36mlog-output_101-103-107[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[1m[31mk[0m[39m[1m[31mk[1m[31mu[0m[39m[1m[31mk[1m[31mu[1m[31mb[0m[39m[1m[31mb[1m[31me[0m[39m[0m[32mk[0m[32mu[0m[32mb[0m[32me[32mctl[39m[1m [0m[0m [1m[31mk[1m[31mu[1m[31mb[1m[31me[1m[31mc[1m[31mt[0m[39m[39m [1m[31mc[0m[39m[0m[39m [1m[31me[0m[39m[0m[39m [1m[31mb[0m[39m[0m[39m [1m[31mk[1m[31mu[0m[39m[0m[39m [1m[31mk[0m[39m[0m[39m [0m[39m [1m[31mc[0m[39m[1m[31mc[1m[31mu[0m[39m[1m[31mc[1m[31mu[1m[31ml[0m[39m[1m[31mc[1m[31mu[0m[39m[0m[39m [1m[31mc[1m[31mu[1m[31mr[0m[39m[0m[32mc[0m[32mu[0m[32mr[32ml[39m [4ml[24m[4ml[4mo[24m[24ml[24moca[9D[39mc[39mu[39mr[39ml[5C[9D[32mc[32mu[32mr[32ml[39m[5Clhost:8081/status[?1l>[?2004l
+]2;curl localhost:8081/status]1;curl{"status":"12:17:19 - 02222e3a4082649df7c622c7f04114f3484b330a"}[1m[7m%[27m[1m[0m                                                                                   ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/log-output_101-103-107]1;..t_101-103-107[0m[27m[24m[J[01;32m➜  [36mlog-output_101-103-107[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[32m:[39m[39m [?2004l
+
+Script done on 2022-07-01 15:17:26+03:00 [COMMAND_EXIT_CODE="0"]

@@ -1,0 +1,76 @@
+Script started on 2022-06-30 12:40:25+03:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="102" LINES="52"]
+[?25l[?7l  
+  ⠀⠀⡶⠛⠲⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡶⠚⢶⡀⠀
+  ⢰⠛⠃⠀⢠⣏⠀⠀⠀⠀⣀⣠⣤⣤⣤⣤⣤⣤⣄⣀⡀⠀⠀⠀⣸⠇⠀⠈⠙⣧
+  ⠸⣦⣤⣄⠀⠙⢷⣤⣶⠟⠛⢉⣁⣤⣤⣤⣤⣀⣉⠙⠻⢷⣤⡾⠋⢀⣤⣤⣴⠏
+  ⠀⠀⠀⠈⠳⣤⡾⠋⣀⣴⣿⣿⠿⠿⠟⠛⠿⠿⣿⣿⣶⣄⠙⢿⣦⠟⠁⠀⠀⠀
+  ⠀⠀⠀⢀⣾⠟⢀⣾⣿⠟⠋        ⠉⠻⣿⣷⡄⠹⣷⡀⠀⠀⠀
+  ⠀⠀⠀⣾⡏⢠⣿⣿⡯⠤⠤⠤⠒⠒⠒⠒⠒⠒⠒⠤⠤⠽⣿⣿⡆⠹⣷⡀⠀⠀
+  ⠀⠀⢸⣟⣠⡿⠿⠟⠒⣒⣒⣉⣉⣉⣉⣉⣉⣉⣉⣉⣒⣒⡛⠻⠿⢤⣹⣇⠀⠀
+  ⠀⠀⣾⡭⢤⣤⣠⡞⠉⠁⢀⣀⣀⠀⠀⠀⠀⢀⣀⣀⠀⠈⢹⣦⣤⡤⠴⣿⠀⠀
+  ⠀⠀⣿⡇⢸⣿⣿⣇⠀⣼⣿⣿⣿⣷⠀⠀⣼⣿⣿⣿⣷⠀⢸⣿⣿⡇⠀⣿⠀⠀
+  ⠀⠀⢻⡇⠸⣿⣿⣿⡄⢿⣿⣿⣿⡿⠀⠀⢿⣿⣿⣿⡿⢀⣿⣿⣿⡇⢸⣿⠀⠀
+  ⠀⠀⠸⣿⡀⢿⣿⣿⣿⣆⠉⠛⠋⠀⢴⣶⠀⠉⠛⠉⣠⣿⣿⣿⡿⠀⣾⠇⠀⠀
+  ⠀⠀⠀⢻⣷⡈⢻⣿⣿⣿⣿⣶⣤⣀⣈⣁⣀⡤⣴⣿⣿⣿⣿⡿⠁⣼⠏⠀⠀⠀
+  ⠀⠀⠀⢀⣽⣷⣄⠙⢿⣿⣿⡟⢲⠧⡦⠼⠤⢷⢺⣿⣿⡿⠋⣠⣾⢿⣄⠀⠀⠀
+  ⣰⠟⠛⠛⠁⣨⡿⢷⣤⣈⠙⢿⡙⠒⠓⠒⠒⠚⡹⠛⢁⣤⣾⠿⣧⡀⠙⠋⠙⣆
+  ⠹⣤⡀⠀⠐⡏⠀⠀⠉⠛⠿⣶⣿⣶⣤⣤⣤⣾⣷⠾⠟⠋⠀⠀⢸⡇⠀⢠⣤⠟
+  ⠀⠀⠳⢤⠾⠃⠀⠀⠀⠀⠀⠀⠈⠉⠉⠉⠉⠁⠀⠀⠀⠀⠀⠀⠘⠷⠤⠾⠁⠀[0m
+[17A[9999999D[35C[0m[1m[31m[1mmagneto[0m@[31m[1mcorsair[0m 
+[35C[0m---------------[0m 
+[35C[0m[31m[1mOS[0m[0m:[0m Debian GNU/Linux 11 (bullseye) x86_64[0m 
+[35C[0m[31m[1mKernel[0m[0m:[0m 5.10.0-15-amd64[0m 
+[35C[0m[31m[1mUptime[0m[0m:[0m 2 hours, 5 mins[0m 
+[35C[0m[31m[1mPackages[0m[0m:[0m 3063 (dpkg), 7 (flatpak)[0m 
+[35C[0m[31m[1mShell[0m[0m:[0m zsh 5.8[0m 
+[35C[0m[31m[1mResolution[0m[0m:[0m 1920x1080[0m 
+[35C[0m[31m[1mDE[0m[0m:[0m GNOME 3.38.6[0m 
+[35C[0m[31m[1mWM[0m[0m:[0m Mutter[0m 
+[35C[0m[31m[1mWM Theme[0m[0m:[0m dracula[0m 
+[35C[0m[31m[1mTheme[0m[0m:[0m dracula [GTK2/3][0m 
+[35C[0m[31m[1mIcons[0m[0m:[0m Tela-circle [GTK2/3][0m 
+[35C[0m[31m[1mTerminal[0m[0m:[0m script[0m 
+[35C[0m[31m[1mCPU[0m[0m:[0m AMD Ryzen 5 3600 (12) @ 3.950GHz[0m 
+[35C[0m[31m[1mGPU[0m[0m:[0m AMD ATI Radeon RX 5600 OEM/5600 XT / 5700/5700 XT[0m 
+[35C[0m[31m[1mMemory[0m[0m:[0m 4385MiB / 15980MiB[0m 
+
+[35C[30m[40m   [31m[41m   [32m[42m   [33m[43m   [34m[44m   [35m[45m   [36m[46m   [37m[47m   [m
+[35C[38;5;8m[48;5;8m   [38;5;9m[48;5;9m   [38;5;10m[48;5;10m   [38;5;11m[48;5;11m   [38;5;12m[48;5;12m   [38;5;13m[48;5;13m   [38;5;14m[48;5;14m   [38;5;15m[48;5;15m   [m
+
+
+[?25h[?7h[1m[7m%[27m[1m[0m                                                                                                      ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/log-output_101-103]1;..utput_101-103[0m[27m[24m[J[01;32m➜  [36mlog-output_101-103[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[1m[31mc[0m[39m[1m[31mc[1m[31ma[0m[39m[0m[32mc[0m[32ma[32mt[39m [4mm[24m[4mm[4manifests[1m[4m/[0m[24m[4ms[24m[0m[24m [4mt[24m[24m [4ms[24m[24m [4me[24m[24m [4mf[24m[24m [4mi[24m[24m [4mn[24m[24m [4ma[24m[24m [4mm[24m[24m [24m [1m[31mc[1m[31ma[0m[39m[39m [1m[31mc[0m[39m[0m[39m [0m[39m [32ml[39m[32ml[32ms[39m[?1l>[?2004l
+]2;ls --color=tty]1;lsDockerfile  log-output.py  [0m[01;34mmanifests[0m  typescript  typescript101
+[1m[7m%[27m[1m[0m                                                                                                      ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/log-output_101-103]1;..utput_101-103[0m[27m[24m[J[01;32m➜  [36mlog-output_101-103[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[1m[31mc[0m[39m[1m[31mc[1m[31ma[0m[39m[0m[32mc[0m[32ma[32mt[39m [4mm[24m[4mm[4ma[24m[4ma[4mnifests[1m[4m/[0m[24m[0m[4m/[4mdeployment.yaml[24m[1m [0m[0m [?1l>[?2004l
+]2;cat manifests/deployment.yaml]1;catapiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: log-output
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: log-output
+  template:
+    metadata:
+      labels:
+        app: log-output
+    spec:
+      containers:
+        - name: log-output
+          image: maroctamorg/log-output:latest
+[1m[7m%[27m[1m[0m                                                                                                      ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/log-output_101-103]1;..utput_101-103[0m[27m[24m[J[01;32m➜  [36mlog-output_101-103[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[1m[31mk[0m[39m[1m[31mk[1m[31mu[0m[39m[1m[31mk[1m[31mu[1m[31mb[0m[39m[1m[31mb[1m[31me[0m[39m[0m[32mk[0m[32mu[0m[32mb[0m[32me[32mctl[39m[1m [0m[0m get[1m [0m[0m po[?1l>[?2004l
+]2;kubectl get po]1;kubectlNAME                    READY   STATUS    RESTARTS   AGE
+todo-6b9c45f986-vcxcz   1/1     Running   0          4m10s
+[1m[7m%[27m[1m[0m                                                                                                      ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/log-output_101-103]1;..utput_101-103[0m[27m[24m[J[01;32m➜  [36mlog-output_101-103[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[1m[31mk[0m[39m[1m[31mk[1m[31mu[0m[39m[1m[31mk[1m[31mu[1m[31mb[0m[39m[1m[31mb[1m[31me[0m[39m[0m[32mk[0m[32mu[0m[32mb[0m[32me[32mctl[39m[1m [0m[0m apply -f [4mm[24m[4mm[4ma[24m[4ma[4mnifests[1m[4m/[0m[24m[0m[4m/[4md[24m[4md[4me[24m[4me[4mployment.yaml[24m[1m [0m[0m [?1l>[?2004l
+]2;kubectl apply -f manifests/deployment.yaml]1;kubectldeployment.apps/log-output created
+[1m[7m%[27m[1m[0m                                                                                                      ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/log-output_101-103]1;..utput_101-103[0m[27m[24m[J[01;32m➜  [36mlog-output_101-103[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[32mkubectl[39m apply -f [4mmanifests/deployment.yaml[24m[34Dget po   [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [28D[?1l>[?2004l
+]2;kubectl get po]1;kubectlNAME                         READY   STATUS              RESTARTS   AGE
+todo-6b9c45f986-vcxcz        1/1     Running             0          4m21s
+log-output-976d899c4-7kqp7   0/1     ContainerCreating   0          2s
+[1m[7m%[27m[1m[0m                                                                                                      ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/log-output_101-103]1;..utput_101-103[0m[27m[24m[J[01;32m➜  [36mlog-output_101-103[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[1m[31mk[0m[39m[1m[31mk[1m[31mu[0m[39m[1m[31mk[1m[31mu[1m[31mb[0m[39m[1m[31mb[1m[31me[0m[39m[0m[32mk[0m[32mu[0m[32mb[0m[32me[32mctl[39m[1m [0m[0m [4ml[24m[4ml[4mo[24m[24ml[24mogs[1m [0m[0m -f [4ml[24m[4ml[4mo[24m[24ml[24mog-output-976d899c4-7kqp7[1m [0m[0m [?1l>[?2004l
+]2;kubectl logs -f log-output-976d899c4-7kqp7]1;kubectl2022-06-30 09:40:52.080584:	FhaAGcQyPIVbOXuVoqpL
+2022-06-30 09:40:57.084935:	FhaAGcQyPIVbOXuVoqpL
+2022-06-30 09:41:02.088936:	FhaAGcQyPIVbOXuVoqpL
+^C
+
+Script done on 2022-06-30 12:42:54+03:00 [COMMAND_EXIT_CODE="0"]

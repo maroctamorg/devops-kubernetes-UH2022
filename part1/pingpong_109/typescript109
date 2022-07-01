@@ -1,0 +1,106 @@
+Script started on 2022-07-01 16:08:04+03:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="83" LINES="54"]
+[?25l[?7l  
+  ⠀⠀⡶⠛⠲⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡶⠚⢶⡀⠀
+  ⢰⠛⠃⠀⢠⣏⠀⠀⠀⠀⣀⣠⣤⣤⣤⣤⣤⣤⣄⣀⡀⠀⠀⠀⣸⠇⠀⠈⠙⣧
+  ⠸⣦⣤⣄⠀⠙⢷⣤⣶⠟⠛⢉⣁⣤⣤⣤⣤⣀⣉⠙⠻⢷⣤⡾⠋⢀⣤⣤⣴⠏
+  ⠀⠀⠀⠈⠳⣤⡾⠋⣀⣴⣿⣿⠿⠿⠟⠛⠿⠿⣿⣿⣶⣄⠙⢿⣦⠟⠁⠀⠀⠀
+  ⠀⠀⠀⢀⣾⠟⢀⣾⣿⠟⠋        ⠉⠻⣿⣷⡄⠹⣷⡀⠀⠀⠀
+  ⠀⠀⠀⣾⡏⢠⣿⣿⡯⠤⠤⠤⠒⠒⠒⠒⠒⠒⠒⠤⠤⠽⣿⣿⡆⠹⣷⡀⠀⠀
+  ⠀⠀⢸⣟⣠⡿⠿⠟⠒⣒⣒⣉⣉⣉⣉⣉⣉⣉⣉⣉⣒⣒⡛⠻⠿⢤⣹⣇⠀⠀
+  ⠀⠀⣾⡭⢤⣤⣠⡞⠉⠁⢀⣀⣀⠀⠀⠀⠀⢀⣀⣀⠀⠈⢹⣦⣤⡤⠴⣿⠀⠀
+  ⠀⠀⣿⡇⢸⣿⣿⣇⠀⣼⣿⣿⣿⣷⠀⠀⣼⣿⣿⣿⣷⠀⢸⣿⣿⡇⠀⣿⠀⠀
+  ⠀⠀⢻⡇⠸⣿⣿⣿⡄⢿⣿⣿⣿⡿⠀⠀⢿⣿⣿⣿⡿⢀⣿⣿⣿⡇⢸⣿⠀⠀
+  ⠀⠀⠸⣿⡀⢿⣿⣿⣿⣆⠉⠛⠋⠀⢴⣶⠀⠉⠛⠉⣠⣿⣿⣿⡿⠀⣾⠇⠀⠀
+  ⠀⠀⠀⢻⣷⡈⢻⣿⣿⣿⣿⣶⣤⣀⣈⣁⣀⡤⣴⣿⣿⣿⣿⡿⠁⣼⠏⠀⠀⠀
+  ⠀⠀⠀⢀⣽⣷⣄⠙⢿⣿⣿⡟⢲⠧⡦⠼⠤⢷⢺⣿⣿⡿⠋⣠⣾⢿⣄⠀⠀⠀
+  ⣰⠟⠛⠛⠁⣨⡿⢷⣤⣈⠙⢿⡙⠒⠓⠒⠒⠚⡹⠛⢁⣤⣾⠿⣧⡀⠙⠋⠙⣆
+  ⠹⣤⡀⠀⠐⡏⠀⠀⠉⠛⠿⣶⣿⣶⣤⣤⣤⣾⣷⠾⠟⠋⠀⠀⢸⡇⠀⢠⣤⠟
+  ⠀⠀⠳⢤⠾⠃⠀⠀⠀⠀⠀⠀⠈⠉⠉⠉⠉⠁⠀⠀⠀⠀⠀⠀⠘⠷⠤⠾⠁⠀[0m
+[17A[9999999D[35C[0m[1m[31m[1mmagneto[0m@[31m[1mcorsair[0m 
+[35C[0m---------------[0m 
+[35C[0m[31m[1mOS[0m[0m:[0m Debian GNU/Linux 11 (bullseye) x86_64[0m 
+[35C[0m[31m[1mKernel[0m[0m:[0m 5.10.0-15-amd64[0m 
+[35C[0m[31m[1mUptime[0m[0m:[0m 15 hours, 31 mins[0m 
+[35C[0m[31m[1mPackages[0m[0m:[0m 3061 (dpkg), 7 (flatpak)[0m 
+[35C[0m[31m[1mShell[0m[0m:[0m zsh 5.8[0m 
+[35C[0m[31m[1mResolution[0m[0m:[0m 1920x1080[0m 
+[35C[0m[31m[1mDE[0m[0m:[0m GNOME 3.38.6[0m 
+[35C[0m[31m[1mWM[0m[0m:[0m Mutter[0m 
+[35C[0m[31m[1mWM Theme[0m[0m:[0m dracula[0m 
+[35C[0m[31m[1mTheme[0m[0m:[0m dracula [GTK2/3][0m 
+[35C[0m[31m[1mIcons[0m[0m:[0m Tela-circle [GTK2/3][0m 
+[35C[0m[31m[1mTerminal[0m[0m:[0m script[0m 
+[35C[0m[31m[1mCPU[0m[0m:[0m AMD Ryzen 5 3600 (12) @ 3.950GHz[0m 
+[35C[0m[31m[1mGPU[0m[0m:[0m AMD ATI Radeon RX 5600 OEM/5600 XT / 5700/5700 XT[0m 
+[35C[0m[31m[1mMemory[0m[0m:[0m 4779MiB / 15980MiB[0m 
+
+[35C[30m[40m   [31m[41m   [32m[42m   [33m[43m   [34m[44m   [35m[45m   [36m[46m   [37m[47m   [m
+[35C[38;5;8m[48;5;8m   [38;5;9m[48;5;9m   [38;5;10m[48;5;10m   [38;5;11m[48;5;11m   [38;5;12m[48;5;12m   [38;5;13m[48;5;13m   [38;5;14m[48;5;14m   [38;5;15m[48;5;15m   [m
+
+
+[?25h[?7h[1m[7m%[27m[1m[0m                                                                                   ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/pingpong_109]1;../pingpong_109[0m[27m[24m[J[01;32m➜  [36mpingpong_109[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[32ml[39m[32ml[32ms[39m[?1l>[?2004l
+]2;ls --color=tty]1;lsDockerfile  [0m[01;34mmanifests[0m     package.json       typescript109
+index.js    [01;34mnode_modules[0m  package-lock.json
+[1m[7m%[27m[1m[0m                                                                                   ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/pingpong_109]1;../pingpong_109[0m[27m[24m[J[01;32m➜  [36mpingpong_109[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[1m[31mc[0m[39m[1m[31mc[1m[31ma[0m[39m[0m[32mc[0m[32ma[32mt[39m [4mm[24m[4mm[4manifests[1m[4m/[0m[24m[10D[24mm[24ma[24mn[24mi[24mf[24me[24ms[24mt[24ms[0m[24m/e[11D[4mm[4ma[4mn[4mi[4mf[4me[4ms[4mt[4ms[4m/[24m [4m/[4ms[24m[4ms[4me[24m[4me[4mr[24m[4mr[4mvice.yaml[24m[1m [0m[0m [?1l>[?2004l
+]2;cat manifests/service.yaml]1;catapiVersion: v1
+kind: Service
+metadata:
+  name: pingpong-svc
+spec:
+  type: ClusterIP
+  selector:
+    app: pingpong # This is the app as declared in the deployment.
+  ports:
+    - port: 2345 # This is the port that is made available outside to Ingress.
+      protocol: TCP
+      targetPort: 6000 # This is the target port
+[1m[7m%[27m[1m[0m                                                                                   ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/pingpong_109]1;../pingpong_109[0m[27m[24m[J[01;32m➜  [36mpingpong_109[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[1m[31mc[0m[39m[1m[31mc[1m[31ma[0m[39m[0m[32mc[0m[32ma[32mt[39m [4mm[24m[4mm[4manifests[1m[4m/[0m[24m[0m[4m/[4mi[24m[4mi[4mn[24m[4mn[4mgress.yaml[24m[1m [0m[0m [?1l>[?2004l
+]2;cat manifests/ingress.yaml]1;catapiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: pingpong-ing
+spec:
+  rules:
+  - http:
+      paths:
+      - path: /pingpong
+        pathType: Prefix
+        backend:
+          service:
+            name: pingpong-svc
+            port:
+              number: 2345
+[1m[7m%[27m[1m[0m                                                                                   ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/pingpong_109]1;../pingpong_109[0m[27m[24m[J[01;32m➜  [36mpingpong_109[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[1m[31mk[0m[39m[1m[31mk[1m[31mu[0m[39m[0m[32mk[0m[32mu[32mbectl[39m delete -f [4mmanifests[24m[19Dlogs -f pi[24mn[24mg[24mp[24mo[24mn[24mg[24m-[24m7[24m66b974c7b-7w9sp[25Dlog-output-976d899c4-kxnxz[34Dget svc,ing                       [23D[11Dapply -f [4mm[4ma[4mnifests[24m[?1l>[?2004l
+]2;kubectl apply -f manifests]1;kubectldeployment.apps/pingpong created
+ingress.networking.k8s.io/pingpong-ing created
+service/pingpong-svc created
+[1m[7m%[27m[1m[0m                                                                                   ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/pingpong_109]1;../pingpong_109[0m[27m[24m[J[01;32m➜  [36mpingpong_109[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[1m[31mk[0m[39m[1m[31mk[1m[31mu[0m[39m[1m[31mk[1m[31mu[1m[31mb[0m[39m[0m[32mk[0m[32mu[0m[32mb[32mectl[39m apply -f [4mmanifests[24m[18Ddelete -f[24m [4mm[4ma[4mn[4mi[4mf[4me[4ms[4mt[4ms[24m[19Dlogs -f pi[24mn[24mg[24mp[24mo[24mn[24mg[24m-[24m7[24m66b974c7b-7w9sp[25Dlog-output-976d899c4-kxnxz[34Dget svc,ing                       [23D[?1l>[?2004l
+]2;kubectl get svc,ing]1;kubectlNAME                     TYPE        CLUSTER-IP      EXTERNAL-IP   PORT(S)    AGE
+service/kubernetes       ClusterIP   10.43.0.1       <none>        443/TCP    61m
+service/todo-svc         ClusterIP   10.43.30.225    <none>        2345/TCP   17m
+service/log-output-svc   ClusterIP   10.43.195.151   <none>        2345/TCP   7m46s
+service/pingpong-svc     ClusterIP   10.43.128.105   <none>        2345/TCP   6s
+
+NAME                                       CLASS    HOSTS   ADDRESS                            PORTS   AGE
+ingress.networking.k8s.io/todo-ing         <none>   *       172.19.0.2,172.19.0.3,172.19.0.4   80      17m
+ingress.networking.k8s.io/log-output-ing   <none>   *       172.19.0.2,172.19.0.3,172.19.0.4   80      7m46s
+ingress.networking.k8s.io/pingpong-ing     <none>   *       172.19.0.2,172.19.0.3,172.19.0.4   80      6s
+[1m[7m%[27m[1m[0m                                                                                   ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/pingpong_109]1;../pingpong_109[0m[27m[24m[J[01;32m➜  [36mpingpong_109[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[1m[31mk[0m[39m[1m[31mk[1m[31mu[0m[39m[1m[31mk[1m[31mu[1m[31mb[0m[39m[0m[32mk[0m[32mu[0m[32mb[32mectl[39m[1m [0m[0m logs -f pingpong-766b974c7b-7w9sp[25Dlog-output-976d899c4-kxnxz                           [4mp[24m[24mp
+[J[0mpingpong-766b974c7b-27x64  [Jpods/                    [J[A[0m[27m[24m[29C[32mkubectl[39m logs -f p[K
+[J[A[46Cingpong-766b974c7b-7n7q8                 -766b974c7b-27x64[1m [0m[0m [?1l>[?2004l
+[J]2;kubectl logs -f pingpong-766b974c7b-27x64]1;kubectl
+> pingpong_109@1.0.0 start
+> node index.js
+
+Server running on port 6000
+^C
+[1m[7m%[27m[1m[0m                                                                                   ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/pingpong_109]1;../pingpong_109[0m[27m[24m[J[01;31m➜  [36mpingpong_109[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[1m[31mc[0m[39m[1m[31mc[1m[31mu[0m[39m[1m[31mc[1m[31mu[1m[31mr[0m[39m[0m[32mc[0m[32mu[0m[32mr[32ml[39m localhost:8081/pingpong[8Dstatus  [?1l>[?2004l
+]2;curl localhost:8081/status]1;curl{"status":"13:8:39 - 3e577cbca30e81d4536e40dce856a66de3caa45d"}[1m[7m%[27m[1m[0m                                                                                   ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/pingpong_109]1;../pingpong_109[0m[27m[24m[J[01;32m➜  [36mpingpong_109[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[32mcurl[39m localhost:8081/status[26D[32mk[32mu[32mb[32me[32mc[32mt[32ml[39m logs -f pingpong-766b974c7b-27x64[41D[32mc[32mu[32mr[32ml[39m[39m [39ml[39mocalhost:8081/status               [15D      p[21D[39mc[39mu[39mr[39ml[17C[21D[32mc[32mu[32mr[32ml[39m[17Cingpong[?1l>[?2004l
+]2;curl localhost:8081/pingpong]1;curlpong 1[1m[7m%[27m[1m[0m                                                                                   ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/pingpong_109]1;../pingpong_109[0m[27m[24m[J[01;32m➜  [36mpingpong_109[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[32mcurl[39m localhost:8081/pingpong[?1l>[?2004l
+]2;curl localhost:8081/pingpong]1;curlpong 2[1m[7m%[27m[1m[0m                                                                                   ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/pingpong_109]1;../pingpong_109[0m[27m[24m[J[01;32m➜  [36mpingpong_109[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[32mcurl[39m localhost:8081/pingpong[?1l>[?2004l
+]2;curl localhost:8081/pingpong]1;curlpong 3[1m[7m%[27m[1m[0m                                                                                   ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/pingpong_109]1;../pingpong_109[0m[27m[24m[J[01;32m➜  [36mpingpong_109[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[32mcurl[39m localhost:8081/pingpong[?1l>[?2004l
+]2;curl localhost:8081/pingpong]1;curlpong 4[1m[7m%[27m[1m[0m                                                                                   ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/pingpong_109]1;../pingpong_109[0m[27m[24m[J[01;32m➜  [36mpingpong_109[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[32mcurl[39m localhost:8081/pingpong[?1l>[?2004l
+]2;curl localhost:8081/pingpong]1;curlpong 5[1m[7m%[27m[1m[0m                                                                                   ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/pingpong_109]1;../pingpong_109[0m[27m[24m[J[01;32m➜  [36mpingpong_109[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[32mcurl[39m localhost:8081/pingpong[8Dstatus  [26D[32mk[32mu[32mb[32me[32mc[32mt[32ml[39m logs -f pingpong-766b974c7b-27x64[33Dget svc,ing                      [22D[11Dapply -f [4mm[4ma[4mnifests[24m[26D[32mc[32ma[32mt[39m[13P[9C[4ms[4m/ingress.yaml[24m[26D[32mk[32mu[32mb[32me[24m[32mc[24m[32mt[24m[32ml[39m[24m [24ma[24mp[24mp[24ml[24my[24m [24m-[24mf[24m [4mm[4ma[4mn[4mi[4mf[4me[4ms[4mt[4ms[24m[18Dget svc,i[24mn[24mg[24m [24m [24m [24m [24m [24m [24m [11Dlogs -f pingpong-766b974c7b-27x64[41D[32mc[32mu[32mr[32ml[39m[39m [39ml[39mocalhost:8081/status               [15Dpingpong[28D[39m [39m [39m [39m                         [28D[1m[31mc[0m[39m[1m[31mc[1m[31mu[0m[39m[1m[31mc[1m[31mu[1m[31mr[0m[39m[0m[32mc[0m[32mu[0m[32mr[32ml[39m localhost:8081/pingpong[8Dstatus  pingpong[8Dstatus  [?1l>[?2004l
+]2;curl localhost:8081/status]1;curl{"status":"13:8:59 - 3e577cbca30e81d4536e40dce856a66de3caa45d"}[1m[7m%[27m[1m[0m                                                                                   ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/pingpong_109]1;../pingpong_109[0m[27m[24m[J[01;32m➜  [36mpingpong_109[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[32m:[39m[39m [?2004l
+
+Script done on 2022-07-01 16:09:06+03:00 [COMMAND_EXIT_CODE="0"]

@@ -1,0 +1,171 @@
+Script started on 2022-07-01 12:48:54+03:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="83" LINES="54"]
+[?25l[?7l  
+  ⠀⠀⡶⠛⠲⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡶⠚⢶⡀⠀
+  ⢰⠛⠃⠀⢠⣏⠀⠀⠀⠀⣀⣠⣤⣤⣤⣤⣤⣤⣄⣀⡀⠀⠀⠀⣸⠇⠀⠈⠙⣧
+  ⠸⣦⣤⣄⠀⠙⢷⣤⣶⠟⠛⢉⣁⣤⣤⣤⣤⣀⣉⠙⠻⢷⣤⡾⠋⢀⣤⣤⣴⠏
+  ⠀⠀⠀⠈⠳⣤⡾⠋⣀⣴⣿⣿⠿⠿⠟⠛⠿⠿⣿⣿⣶⣄⠙⢿⣦⠟⠁⠀⠀⠀
+  ⠀⠀⠀⢀⣾⠟⢀⣾⣿⠟⠋        ⠉⠻⣿⣷⡄⠹⣷⡀⠀⠀⠀
+  ⠀⠀⠀⣾⡏⢠⣿⣿⡯⠤⠤⠤⠒⠒⠒⠒⠒⠒⠒⠤⠤⠽⣿⣿⡆⠹⣷⡀⠀⠀
+  ⠀⠀⢸⣟⣠⡿⠿⠟⠒⣒⣒⣉⣉⣉⣉⣉⣉⣉⣉⣉⣒⣒⡛⠻⠿⢤⣹⣇⠀⠀
+  ⠀⠀⣾⡭⢤⣤⣠⡞⠉⠁⢀⣀⣀⠀⠀⠀⠀⢀⣀⣀⠀⠈⢹⣦⣤⡤⠴⣿⠀⠀
+  ⠀⠀⣿⡇⢸⣿⣿⣇⠀⣼⣿⣿⣿⣷⠀⠀⣼⣿⣿⣿⣷⠀⢸⣿⣿⡇⠀⣿⠀⠀
+  ⠀⠀⢻⡇⠸⣿⣿⣿⡄⢿⣿⣿⣿⡿⠀⠀⢿⣿⣿⣿⡿⢀⣿⣿⣿⡇⢸⣿⠀⠀
+  ⠀⠀⠸⣿⡀⢿⣿⣿⣿⣆⠉⠛⠋⠀⢴⣶⠀⠉⠛⠉⣠⣿⣿⣿⡿⠀⣾⠇⠀⠀
+  ⠀⠀⠀⢻⣷⡈⢻⣿⣿⣿⣿⣶⣤⣀⣈⣁⣀⡤⣴⣿⣿⣿⣿⡿⠁⣼⠏⠀⠀⠀
+  ⠀⠀⠀⢀⣽⣷⣄⠙⢿⣿⣿⡟⢲⠧⡦⠼⠤⢷⢺⣿⣿⡿⠋⣠⣾⢿⣄⠀⠀⠀
+  ⣰⠟⠛⠛⠁⣨⡿⢷⣤⣈⠙⢿⡙⠒⠓⠒⠒⠚⡹⠛⢁⣤⣾⠿⣧⡀⠙⠋⠙⣆
+  ⠹⣤⡀⠀⠐⡏⠀⠀⠉⠛⠿⣶⣿⣶⣤⣤⣤⣾⣷⠾⠟⠋⠀⠀⢸⡇⠀⢠⣤⠟
+  ⠀⠀⠳⢤⠾⠃⠀⠀⠀⠀⠀⠀⠈⠉⠉⠉⠉⠁⠀⠀⠀⠀⠀⠀⠘⠷⠤⠾⠁⠀[0m
+[17A[9999999D[35C[0m[1m[31m[1mmagneto[0m@[31m[1mcorsair[0m 
+[35C[0m---------------[0m 
+[35C[0m[31m[1mOS[0m[0m:[0m Debian GNU/Linux 11 (bullseye) x86_64[0m 
+[35C[0m[31m[1mKernel[0m[0m:[0m 5.10.0-15-amd64[0m 
+[35C[0m[31m[1mUptime[0m[0m:[0m 12 hours, 12 mins[0m 
+[35C[0m[31m[1mPackages[0m[0m:[0m 3064 (dpkg), 7 (flatpak)[0m 
+[35C[0m[31m[1mShell[0m[0m:[0m zsh 5.8[0m 
+[35C[0m[31m[1mResolution[0m[0m:[0m 1920x1080[0m 
+[35C[0m[31m[1mDE[0m[0m:[0m GNOME 3.38.6[0m 
+[35C[0m[31m[1mWM[0m[0m:[0m Mutter[0m 
+[35C[0m[31m[1mWM Theme[0m[0m:[0m dracula[0m 
+[35C[0m[31m[1mTheme[0m[0m:[0m dracula [GTK2/3][0m 
+[35C[0m[31m[1mIcons[0m[0m:[0m Tela-circle [GTK2/3][0m 
+[35C[0m[31m[1mTerminal[0m[0m:[0m script[0m 
+[35C[0m[31m[1mCPU[0m[0m:[0m AMD Ryzen 5 3600 (12) @ 3.950GHz[0m 
+[35C[0m[31m[1mGPU[0m[0m:[0m AMD ATI Radeon RX 5600 OEM/5600 XT / 5700/5700 XT[0m 
+[35C[0m[31m[1mMemory[0m[0m:[0m 6034MiB / 15980MiB[0m 
+
+[35C[30m[40m   [31m[41m   [32m[42m   [33m[43m   [34m[44m   [35m[45m   [36m[46m   [37m[47m   [m
+[35C[38;5;8m[48;5;8m   [38;5;9m[48;5;9m   [38;5;10m[48;5;10m   [38;5;11m[48;5;11m   [38;5;12m[48;5;12m   [38;5;13m[48;5;13m   [38;5;14m[48;5;14m   [38;5;15m[48;5;15m   [m
+
+
+[?25h[?7h[1m[7m%[27m[1m[0m                                                                                   ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/proj_todo_102-104-105]1;..o_102-104-105[0m[27m[24m[J[01;32m➜  [36mproj_todo_102-104-105[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[32ml[39m[32ml[32ms[39m[?1l>[?2004l
+]2;ls --color=tty]1;lsDockerfile  [0m[01;34mmanifests[0m     package.json       [01;34mpublic[0m         typescript105
+index.js    [01;34mnode_modules[0m  package-lock.json  typescript104
+[1m[7m%[27m[1m[0m                                                                                   ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/proj_todo_102-104-105]1;..o_102-104-105[0m[27m[24m[J[01;32m➜  [36mproj_todo_102-104-105[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[32md[39m[33md[33mo[39m[1m[31md[1m[31mo[1m[31mc[0m[39m[1m[31mc[1m[31mk[0m[39m[1m[31mk[1m[31me[0m[39m[0m[32md[0m[32mo[0m[32mc[0m[32mk[0m[32me[32mr[39m build -t maroctamorg/todo:latest[32Dpush[4P[24C    [28Dbuild -t maroctamorg/todo:latest [4m.[24m[?1l>[?2004l
+]2;docker build -t maroctamorg/todo:latest .]1;dockerSending build context to Docker daemon  66.05kB
+Step 1/7 : FROM node:alpine
+ ---> 515db77e67c7
+Step 2/7 : WORKDIR /srv/todo
+ ---> Using cache
+ ---> e425f0612808
+Step 3/7 : COPY package* ./
+ ---> Using cache
+ ---> c69e13135fac
+Step 4/7 : RUN npm i
+ ---> Using cache
+ ---> 1a6631da76eb
+Step 5/7 : COPY . .
+ ---> 97c3004f6416
+Step 6/7 : ENV PORT=6000
+ ---> Running in dcbc2af9c845
+Removing intermediate container dcbc2af9c845
+ ---> b40d232a795a
+Step 7/7 : CMD ["npm", "start"]
+ ---> Running in 6f110d017593
+Removing intermediate container 6f110d017593
+ ---> fee09582171b
+Successfully built fee09582171b
+Successfully tagged maroctamorg/todo:latest
+[1m[7m%[27m[1m[0m                                                                                   ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/proj_todo_102-104-105]1;..o_102-104-105[0m[27m[24m[J[01;32m➜  [36mproj_todo_102-104-105[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[32md[39m[33md[33mo[39m[1m[31md[1m[31mo[1m[31mc[0m[39m[1m[31mc[1m[31mk[0m[39m[1m[31mk[1m[31me[0m[39m[0m[32md[0m[32mo[0m[32mc[0m[32mk[0m[32me[32mr[39m [4mp[24m[4mp[4mu[24m[24mp[24mush maroctamorg/todo:latest[?1l>[?2004l
+]2;docker push maroctamorg/todo:latest]1;dockerThe push refers to repository [docker.io/maroctamorg/todo]
+
+[1A[2K9b2145ed894f: Preparing [1B
+[1A[2Kac23bab03ee0: Preparing [1B
+[1A[2K3d5445fd8c84: Preparing [1B
+[1A[2K80c79b1b2bf2: Preparing [1B
+[1A[2K7962b4fa86f9: Preparing [1B
+[1A[2K70fff1b8b419: Preparing [1B
+[1A[2K67bb22608009: Preparing [1B
+[1A[2K24302eb7d908: Preparing [1B[2A[2K67bb22608009: Waiting [2B[3A[2K70fff1b8b419: Waiting [3B[1A[2K24302eb7d908: Waiting [1B[8A[2K9b2145ed894f: Pushing  1.024kB/56.88kB[8B[8A[2K9b2145ed894f: Pushing  67.07kB[8B[5A[2K80c79b1b2bf2: Layer already exists [5B[6A[2K3d5445fd8c84: Layer already exists [6B[7A[2Kac23bab03ee0: Layer already exists [7B[4A[2K7962b4fa86f9: Layer already exists [4B[2A[2K67bb22608009: Layer already exists [2B[3A[2K70fff1b8b419: Layer already exists [3B[1A[2K24302eb7d908: Layer already exists [1B[8A[2K9b2145ed894f: Pushed [8Blatest: digest: sha256:e5bff48d2ff3fec6c9727cbbec1529572db41b9cdeacfb502d08a30c65482dd5 size: 1993
+[1m[7m%[27m[1m[0m                                                                                   ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/proj_todo_102-104-105]1;..o_102-104-105[0m[27m[24m[J[01;32m➜  [36mproj_todo_102-104-105[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[1m[31mk[0m[39m[1m[31mk[1m[31mu[0m[39m[1m[31mk[1m[31mu[1m[31mb[0m[39m[1m[31mb[1m[31me[0m[39m[0m[32mk[0m[32mu[0m[32mb[0m[32me[32mctl[39m[1m [0m[0m create[1m [0m[0m deployment todo --image=maroctamorg/todo[K[?1l>[?2004l
+]2;kubectl create deployment todo --image=maroctamorg/todo]1;kubectldeployment.apps/todo created
+[1m[7m%[27m[1m[0m                                                                                   ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/proj_todo_102-104-105]1;..o_102-104-105[0m[27m[24m[J[01;32m➜  [36mproj_todo_102-104-105[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[1m[31mk[0m[39m[1m[31mk[1m[31mu[0m[39m[1m[31mk[1m[31mu[1m[31mb[0m[39m[1m[31mb[1m[31me[0m[39m[0m[32mk[0m[32mu[0m[32mb[0m[32me[32mctl[39m[1m [0m[0m get[1m [0m[0m [4mp[24m[24mpod[?1l>[?2004l
+]2;kubectl get pod]1;kubectlNAME                    READY   STATUS              RESTARTS   AGE
+todo-798999f7c9-lsghc   0/1     ContainerCreating   0          4s
+[1m[7m%[27m[1m[0m                                                                                   ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/proj_todo_102-104-105]1;..o_102-104-105[0m[27m[24m[J[01;32m➜  [36mproj_todo_102-104-105[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[1m[31mk[0m[39m[1m[31mk[1m[31mu[0m[39m[1m[31mk[1m[31mu[1m[31mb[0m[39m[1m[31mb[1m[31me[0m[39m[0m[32mk[0m[32mu[0m[32mb[0m[32me[32mctl[39m[1m [0m[0m logs [4mt[24m[24mtodo-798999f7c9-lsghc[1m [0m[0m -todo-798[2C9f7c9-lsghc[21Dftodo-798[2C9f7c9-lsghc[21D todo-798[2C9f7c9-lsghc[21D[?1l>[?2004l
+]2;kubectl logs -f todo-798999f7c9-lsghc]1;kubectl
+> todo@1.0.0 start
+> node index.js
+
+Server running on port 6000
+^C
+[1m[7m%[27m[1m[0m                                                                                   ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/proj_todo_102-104-105]1;..o_102-104-105[0m[27m[24m[J[01;31m➜  [36mproj_todo_102-104-105[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[1m[31mk[0m[39m[1m[31mk[1m[31mu[0m[39m[1m[31mk[1m[31mu[1m[31mb[0m[39m[1m[31mb[1m[31me[0m[39m[0m[32mk[0m[32mu[0m[32mb[0m[32me[32mctl[39m[1m [0m[0m --  [4mp[24m[24mport-forward[1m [0m[0m -hlisttodo-6b9c45f986-klzcz 6001:6000 &[K[?1l>[?2004l
+]2;kubectl port-forward todo-798999f7c9-lsghc 6002:6000 &]1;kubectl[1] 39322
+[1m[7m%[27m[1m[0m                                                                                   ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/proj_todo_102-104-105]1;..o_102-104-105[0m[27m[24m[J[01;32m➜  [36mproj_todo_102-104-105[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hForwarding from 127.0.0.1:6002 -> 6000
+Forwarding from [::1]:6002 -> 6000
+[?2004l
+[1m[7m%[27m[1m[0m                                                                                   ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/proj_todo_102-104-105]1;..o_102-104-105[0m[27m[24m[J[01;31m➜  [36mproj_todo_102-104-105[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[1m[31mk[0m[39m[1m[31mk[1m[31mu[0m[39m[1m[31mk[1m[31mu[1m[31mb[0m[39m[1m[31mb[1m[31me[0m[39m[0m[32mk[0m[32mu[0m[32mb[0m[32me[32mctl[39m[1m [0m[0m [1m[31mk[1m[31mu[1m[31mb[1m[31me[1m[31mc[1m[31mt[0m[39m[39m [1m[31mc[0m[39m[0m[39m [1m[31me[0m[39m[0m[39m [1m[31mb[0m[39m[0m[39m [1m[31mk[1m[31mu[0m[39m[0m[39m [1m[31mk[0m[39m[0m[39m [0m[39m [1m[31mc[0m[39m[1m[31mc[1m[31mu[0m[39m[1m[31mc[1m[31mu[1m[31mr[0m[39m[0m[39mc[0m[39mu[0m[39mr
+[0mcurl             currentAppId     currentWindowId                 
+[Jcurl-config      [Jcurrent_branch   [J                              [A[A[0m[27m[24m[38Ccur[K[32mc[32mu[32mr[32ml[39m ht
+[J[A[45Ctp    lcoa  oca   o  ocalhost:6001 2 [33m>[39m [4mi[24m[4mi[4mn[24m[4mn[4md[24m[4md[4me[24m[4me[4mx.js[24m[1m [0m[0m [4mj[24m[24m [4m.[24m[24m [24mi[24mn[24md[24me[24mx[24m.html[?1l>[?2004l
+[J]2;curl localhost:6002 > index.html]1;curl  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0Handling connection for 6002
+100  1956  100  1956    0     0   173k      0 --:--:-- --:--:-- --:--:--  173k
+[1m[7m%[27m[1m[0m                                                                                   ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/proj_todo_102-104-105]1;..o_102-104-105[0m[27m[24m[J[01;32m➜  [36mproj_todo_102-104-105[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[1m[31mc[0m[39m[1m[31mc[1m[31ma[0m[39m[0m[32mc[0m[32ma[32mt[39m[1m[31mc[1m[31ma[0m[39m[39m [1m[31mc[0m[39m[0m[39m [0m[39m [32ml[39m[32ml[32ms[39m[?1l>[?2004l
+]2;ls --color=tty]1;lsDockerfile  index.js   [0m[01;34mnode_modules[0m  package-lock.json  typescript104
+index.html  [01;34mmanifests[0m  package.json  [01;34mpublic[0m             typescript105
+[1m[7m%[27m[1m[0m                                                                                   ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/proj_todo_102-104-105]1;..o_102-104-105[0m[27m[24m[J[01;32m➜  [36mproj_todo_102-104-105[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[1m[31mc[0m[39m[1m[31mc[1m[31ma[0m[39m[0m[32mc[0m[32ma[32mt[39m [4mi[24m[4mi[4mn[24m[4mn[4md[24m[4md[4me[24m[4me[4mx.[24m[4m.[4mh[24m[4mh[4mt[24m[4mt[4mml[24m[1m [0m[0m [?1l>[?2004l
+]2;cat index.html]1;cat<!DOCTYPE html>
+<html>
+	<header>
+		<meta charset=utf-8>
+		<title>Hermes</title>
+	</header>
+	<style>
+		body {
+			background-color: #00394d;
+		}
+		.center {
+			 display: flex;
+			 justify-content: center;
+			 align-items: center;
+		}
+	</style>
+	<body>
+		<div class="container" id="container">
+			<h1 id="header" class="center">SELECT A SERVICE</h1>
+			<div id="kavita" class="center">
+				<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+				<svg
+					width="150px"
+					height="150px"
+					version="1.1"
+					id="kavita"
+					<g 
+						id="layer1">
+						<rect
+							 style="fill:none;stroke-width:0.264999;stroke-linejoin:round"
+							 id="rect111"/>
+						<g
+							 aria-label="K"
+							 transform="matrix(4.4813101,0,0,4.4202393,188.47934,-537.65423)"
+							 id="text44"
+							 style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;fill:#ffffff">
+							<g
+								 id="g373">
+								<path
+									 id="rect19"
+									 style="fill:#ff5555;stroke-width:0.225006;stroke-linejoin:round"
+									 transform="matrix(0.21274,0.06828925,0,0.22623209,-42.058982,121.63464)"
+									 d="M 6.8156733e-6,-7.0920032e-6 H 68.18035 V 109.41943 H 6.8156733e-6 Z" />
+								<path
+									 id="rect19-4"
+									 style="fill:#ff0000;stroke-width:0.225006;stroke-linejoin:round"
+									 transform="matrix(-0.21274,0.06828925,0,0.22623209,-42.058982,121.63464)"
+									 d="m -136.36069,41.161137 h 68.180346 V 150.58057 h -68.180346 z" />
+								<path
+									 d="m -29.774003,127.74765 v 18.01446 h -3.569026 v -18.01446 z m 5.926666,18.01446 -5.79641,-9.61292 5.67918,-8.40154 h 3.829538 l -5.783385,8.14102 6.278359,9.87344 z"
+									 style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:25.4px;font-family:'Fira Code';fill:#ffffff"
+									 id="path74" />
+							</g>
+						</g>
+					</g>
+				</svg>
+			</div>
+			<p id="demo" class="center"></p>
+		</div>
+	</body>
+</html>
+
+Script done on 2022-07-01 12:50:48+03:00 [COMMAND_EXIT_CODE="0"]

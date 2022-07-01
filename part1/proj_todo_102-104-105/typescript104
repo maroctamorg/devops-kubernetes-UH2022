@@ -1,0 +1,81 @@
+Script started on 2022-06-30 12:36:11+03:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="102" LINES="52"]
+[?25l[?7l  
+  ⠀⠀⡶⠛⠲⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡶⠚⢶⡀⠀
+  ⢰⠛⠃⠀⢠⣏⠀⠀⠀⠀⣀⣠⣤⣤⣤⣤⣤⣤⣄⣀⡀⠀⠀⠀⣸⠇⠀⠈⠙⣧
+  ⠸⣦⣤⣄⠀⠙⢷⣤⣶⠟⠛⢉⣁⣤⣤⣤⣤⣀⣉⠙⠻⢷⣤⡾⠋⢀⣤⣤⣴⠏
+  ⠀⠀⠀⠈⠳⣤⡾⠋⣀⣴⣿⣿⠿⠿⠟⠛⠿⠿⣿⣿⣶⣄⠙⢿⣦⠟⠁⠀⠀⠀
+  ⠀⠀⠀⢀⣾⠟⢀⣾⣿⠟⠋        ⠉⠻⣿⣷⡄⠹⣷⡀⠀⠀⠀
+  ⠀⠀⠀⣾⡏⢠⣿⣿⡯⠤⠤⠤⠒⠒⠒⠒⠒⠒⠒⠤⠤⠽⣿⣿⡆⠹⣷⡀⠀⠀
+  ⠀⠀⢸⣟⣠⡿⠿⠟⠒⣒⣒⣉⣉⣉⣉⣉⣉⣉⣉⣉⣒⣒⡛⠻⠿⢤⣹⣇⠀⠀
+  ⠀⠀⣾⡭⢤⣤⣠⡞⠉⠁⢀⣀⣀⠀⠀⠀⠀⢀⣀⣀⠀⠈⢹⣦⣤⡤⠴⣿⠀⠀
+  ⠀⠀⣿⡇⢸⣿⣿⣇⠀⣼⣿⣿⣿⣷⠀⠀⣼⣿⣿⣿⣷⠀⢸⣿⣿⡇⠀⣿⠀⠀
+  ⠀⠀⢻⡇⠸⣿⣿⣿⡄⢿⣿⣿⣿⡿⠀⠀⢿⣿⣿⣿⡿⢀⣿⣿⣿⡇⢸⣿⠀⠀
+  ⠀⠀⠸⣿⡀⢿⣿⣿⣿⣆⠉⠛⠋⠀⢴⣶⠀⠉⠛⠉⣠⣿⣿⣿⡿⠀⣾⠇⠀⠀
+  ⠀⠀⠀⢻⣷⡈⢻⣿⣿⣿⣿⣶⣤⣀⣈⣁⣀⡤⣴⣿⣿⣿⣿⡿⠁⣼⠏⠀⠀⠀
+  ⠀⠀⠀⢀⣽⣷⣄⠙⢿⣿⣿⡟⢲⠧⡦⠼⠤⢷⢺⣿⣿⡿⠋⣠⣾⢿⣄⠀⠀⠀
+  ⣰⠟⠛⠛⠁⣨⡿⢷⣤⣈⠙⢿⡙⠒⠓⠒⠒⠚⡹⠛⢁⣤⣾⠿⣧⡀⠙⠋⠙⣆
+  ⠹⣤⡀⠀⠐⡏⠀⠀⠉⠛⠿⣶⣿⣶⣤⣤⣤⣾⣷⠾⠟⠋⠀⠀⢸⡇⠀⢠⣤⠟
+  ⠀⠀⠳⢤⠾⠃⠀⠀⠀⠀⠀⠀⠈⠉⠉⠉⠉⠁⠀⠀⠀⠀⠀⠀⠘⠷⠤⠾⠁⠀[0m
+[17A[9999999D[35C[0m[1m[31m[1mmagneto[0m@[31m[1mcorsair[0m 
+[35C[0m---------------[0m 
+[35C[0m[31m[1mOS[0m[0m:[0m Debian GNU/Linux 11 (bullseye) x86_64[0m 
+[35C[0m[31m[1mKernel[0m[0m:[0m 5.10.0-15-amd64[0m 
+[35C[0m[31m[1mUptime[0m[0m:[0m 2 hours[0m 
+[35C[0m[31m[1mPackages[0m[0m:[0m 3063 (dpkg), 7 (flatpak)[0m 
+[35C[0m[31m[1mShell[0m[0m:[0m zsh 5.8[0m 
+[35C[0m[31m[1mResolution[0m[0m:[0m 1920x1080[0m 
+[35C[0m[31m[1mDE[0m[0m:[0m GNOME 3.38.6[0m 
+[35C[0m[31m[1mWM[0m[0m:[0m Mutter[0m 
+[35C[0m[31m[1mWM Theme[0m[0m:[0m dracula[0m 
+[35C[0m[31m[1mTheme[0m[0m:[0m dracula [GTK2/3][0m 
+[35C[0m[31m[1mIcons[0m[0m:[0m Tela-circle [GTK2/3][0m 
+[35C[0m[31m[1mTerminal[0m[0m:[0m script[0m 
+[35C[0m[31m[1mCPU[0m[0m:[0m AMD Ryzen 5 3600 (12) @ 3.950GHz[0m 
+[35C[0m[31m[1mGPU[0m[0m:[0m AMD ATI Radeon RX 5600 OEM/5600 XT / 5700/5700 XT[0m 
+[35C[0m[31m[1mMemory[0m[0m:[0m 4344MiB / 15980MiB[0m 
+
+[35C[30m[40m   [31m[41m   [32m[42m   [33m[43m   [34m[44m   [35m[45m   [36m[46m   [37m[47m   [m
+[35C[38;5;8m[48;5;8m   [38;5;9m[48;5;9m   [38;5;10m[48;5;10m   [38;5;11m[48;5;11m   [38;5;12m[48;5;12m   [38;5;13m[48;5;13m   [38;5;14m[48;5;14m   [38;5;15m[48;5;15m   [m
+
+
+[?25h[?7h[1m[7m%[27m[1m[0m                                                                                                      ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/102]1;..022/part1/102[0m[27m[24m[J[01;32m➜  [36m102[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[1m[31mk[0m[39m[1m[31mk[1m[31mu[0m[39m[0m[32mk[0m[32mu[32mbectl[39m[1m [0m[0m get[1m [0m[0m po[?1l>[?2004l
+]2;kubectl get po]1;kubectlNo resources found in default namespace.
+[1m[7m%[27m[1m[0m                                                                                                      ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/102]1;..022/part1/102[0m[27m[24m[J[01;32m➜  [36m102[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[32ml[39m[32ml[32ms[39m[?1l>[?2004l
+]2;ls --color=tty]1;lsDockerfile  index.js  [0m[01;34mmanifests[0m  [01;34mnode_modules[0m  package.json  package-lock.json  typescript
+[1m[7m%[27m[1m[0m                                                                                                      ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/102]1;..022/part1/102[0m[27m[24m[J[01;32m➜  [36m102[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[32ml[39m[32ml[32ms[39m [4mm[24m[4mm[4manifests[1m[4m/[0m[24m[4ms[24m[0m[24m [?1l>[?2004l
+]2;ls --color=tty manifests]1;lsdeployment.yaml
+[1m[7m%[27m[1m[0m                                                                                                      ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/102]1;..022/part1/102[0m[27m[24m[J[01;32m➜  [36m102[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[1m[31mc[0m[39m[1m[31mc[1m[31ma[0m[39m[0m[32mc[0m[32ma[32mt[39m [4mm[24m[4mm[4ma[24m[4ma[4mnifests[1m[4m/[0m[24m[0m[4m/[4md[24m[4md[4me[24m[4me[4mployment.yaml[24m[1m [0m[0m [?1l>[?2004l
+]2;cat manifests/deployment.yaml]1;catapiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: todo
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: todo
+  template:
+    metadata:
+      labels:
+        app: todo
+    spec:
+      containers:
+        - name: todo
+          image: maroctamorg/todo:latest
+[1m[7m%[27m[1m[0m                                                                                                      ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/102]1;..022/part1/102[0m[27m[24m[J[01;32m➜  [36m102[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[1m[31mk[0m[39m[1m[31mk[1m[31mu[0m[39m[1m[31mk[1m[31mu[1m[31mb[0m[39m[0m[32mk[0m[32mu[0m[32mb[32mectl[39m[1m [0m[0m 0f   apply -f [4mm[24m[4mm[4ma[24m[4ma[4mnifests[1m[4m/[0m[24m[0m[4m/[4md[24m[4md[4me[24m[4me[4mployment.yaml[24m[1m [0m[0m [?1l>[?2004l
+]2;kubectl apply -f manifests/deployment.yaml]1;kubectldeployment.apps/todo created
+[1m[7m%[27m[1m[0m                                                                                                      ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/102]1;..022/part1/102[0m[27m[24m[J[01;32m➜  [36m102[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[1m[31mk[0m[39m[1m[31mk[1m[31mu[0m[39m[1m[31mk[1m[31mu[1m[31mb[0m[39m[1m[31mb[1m[31me[0m[39m[0m[32mk[0m[32mu[0m[32mb[0m[32me[32mctl[39m[1m [0m[0m get [4mp[24m[24mpo[?1l>[?2004l
+]2;kubectl get po]1;kubectlNAME                    READY   STATUS    RESTARTS   AGE
+todo-6b9c45f986-vcxcz   1/1     Running   0          24s
+[1m[7m%[27m[1m[0m                                                                                                      ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/102]1;..022/part1/102[0m[27m[24m[J[01;32m➜  [36m102[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[1m[31mk[0m[39m[1m[31mk[1m[31mu[0m[39m[1m[31mk[1m[31mu[1m[31mb[0m[39m[1m[31mb[1m[31me[0m[39m[0m[32mk[0m[32mu[0m[32mb[0m[32me[32mctl[39m[1m [0m[0m logs[1m [0m[0m -f todo-6b9c45f986-5zf9d[?1l>[?2004l
+]2;kubectl logs -f todo-6b9c45f986-5zf9d]1;kubectlError from server (NotFound): pods "todo-6b9c45f986-5zf9d" not found
+[1m[7m%[27m[1m[0m                                                                                                      ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/102]1;..022/part1/102[0m[27m[24m[J[01;31m➜  [36m102[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[32mkubectl[39m logs -f todo-6b9c45f986-5zf9d                 -6b9c45f986-vcxcz[1m [0m[0m [?1l>[?2004l
+]2;kubectl logs -f todo-6b9c45f986-vcxcz]1;kubectl
+> todo@1.0.0 start
+> node index.js
+
+Server running on port 6000
+^C
+[1m[7m%[27m[1m[0m                                                                                                      ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/102]1;..022/part1/102[0m[27m[24m[J[01;31m➜  [36m102[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[?2004l
+
+Script done on 2022-06-30 12:37:05+03:00 [COMMAND_EXIT_CODE="130"]

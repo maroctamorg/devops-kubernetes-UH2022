@@ -12,6 +12,13 @@ spec:
       labels:
         app: todo
     spec:
+      volumes:
+        - name: volume
+          persistentVolumeClaim:
+            claimName: volume-claim
       containers:
         - name: todo
           image: maroctamorg/todo:latest
+          volumeMounts:
+            - name: volume
+              mountPath: /srv/todo/public/db

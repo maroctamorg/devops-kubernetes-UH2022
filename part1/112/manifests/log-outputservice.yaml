@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: log-output-svc
+spec:
+  type: ClusterIP
+  selector:
+    app: ex112 # This is the app as declared in the deployment.
+  ports:
+    - port: 2345 # This is the port that is made available outside by Ingress.
+      protocol: TCP
+      targetPort: 6000 # This is the target port

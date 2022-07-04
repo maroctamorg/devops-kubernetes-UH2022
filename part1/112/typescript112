@@ -1,0 +1,150 @@
+Script started on 2022-07-04 15:39:48+03:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="90" LINES="52"]
+[?25l[?7l  
+  ⠀⠀⡶⠛⠲⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡶⠚⢶⡀⠀
+  ⢰⠛⠃⠀⢠⣏⠀⠀⠀⠀⣀⣠⣤⣤⣤⣤⣤⣤⣄⣀⡀⠀⠀⠀⣸⠇⠀⠈⠙⣧
+  ⠸⣦⣤⣄⠀⠙⢷⣤⣶⠟⠛⢉⣁⣤⣤⣤⣤⣀⣉⠙⠻⢷⣤⡾⠋⢀⣤⣤⣴⠏
+  ⠀⠀⠀⠈⠳⣤⡾⠋⣀⣴⣿⣿⠿⠿⠟⠛⠿⠿⣿⣿⣶⣄⠙⢿⣦⠟⠁⠀⠀⠀
+  ⠀⠀⠀⢀⣾⠟⢀⣾⣿⠟⠋        ⠉⠻⣿⣷⡄⠹⣷⡀⠀⠀⠀
+  ⠀⠀⠀⣾⡏⢠⣿⣿⡯⠤⠤⠤⠒⠒⠒⠒⠒⠒⠒⠤⠤⠽⣿⣿⡆⠹⣷⡀⠀⠀
+  ⠀⠀⢸⣟⣠⡿⠿⠟⠒⣒⣒⣉⣉⣉⣉⣉⣉⣉⣉⣉⣒⣒⡛⠻⠿⢤⣹⣇⠀⠀
+  ⠀⠀⣾⡭⢤⣤⣠⡞⠉⠁⢀⣀⣀⠀⠀⠀⠀⢀⣀⣀⠀⠈⢹⣦⣤⡤⠴⣿⠀⠀
+  ⠀⠀⣿⡇⢸⣿⣿⣇⠀⣼⣿⣿⣿⣷⠀⠀⣼⣿⣿⣿⣷⠀⢸⣿⣿⡇⠀⣿⠀⠀
+  ⠀⠀⢻⡇⠸⣿⣿⣿⡄⢿⣿⣿⣿⡿⠀⠀⢿⣿⣿⣿⡿⢀⣿⣿⣿⡇⢸⣿⠀⠀
+  ⠀⠀⠸⣿⡀⢿⣿⣿⣿⣆⠉⠛⠋⠀⢴⣶⠀⠉⠛⠉⣠⣿⣿⣿⡿⠀⣾⠇⠀⠀
+  ⠀⠀⠀⢻⣷⡈⢻⣿⣿⣿⣿⣶⣤⣀⣈⣁⣀⡤⣴⣿⣿⣿⣿⡿⠁⣼⠏⠀⠀⠀
+  ⠀⠀⠀⢀⣽⣷⣄⠙⢿⣿⣿⡟⢲⠧⡦⠼⠤⢷⢺⣿⣿⡿⠋⣠⣾⢿⣄⠀⠀⠀
+  ⣰⠟⠛⠛⠁⣨⡿⢷⣤⣈⠙⢿⡙⠒⠓⠒⠒⠚⡹⠛⢁⣤⣾⠿⣧⡀⠙⠋⠙⣆
+  ⠹⣤⡀⠀⠐⡏⠀⠀⠉⠛⠿⣶⣿⣶⣤⣤⣤⣾⣷⠾⠟⠋⠀⠀⢸⡇⠀⢠⣤⠟
+  ⠀⠀⠳⢤⠾⠃⠀⠀⠀⠀⠀⠀⠈⠉⠉⠉⠉⠁⠀⠀⠀⠀⠀⠀⠘⠷⠤⠾⠁⠀[0m
+[17A[9999999D[35C[0m[1m[31m[1mmagneto[0m@[31m[1mcorsair[0m 
+[35C[0m---------------[0m 
+[35C[0m[31m[1mOS[0m[0m:[0m Debian GNU/Linux 11 (bullseye) x86_64[0m 
+[35C[0m[31m[1mKernel[0m[0m:[0m 5.10.0-15-amd64[0m 
+[35C[0m[31m[1mUptime[0m[0m:[0m 5 hours, 35 mins[0m 
+[35C[0m[31m[1mPackages[0m[0m:[0m 3147 (dpkg), 7 (flatpak)[0m 
+[35C[0m[31m[1mShell[0m[0m:[0m zsh 5.8[0m 
+[35C[0m[31m[1mResolution[0m[0m:[0m 1920x1080[0m 
+[35C[0m[31m[1mDE[0m[0m:[0m GNOME 3.38.6[0m 
+[35C[0m[31m[1mWM[0m[0m:[0m Mutter[0m 
+[35C[0m[31m[1mWM Theme[0m[0m:[0m dracula[0m 
+[35C[0m[31m[1mTheme[0m[0m:[0m dracula [GTK2/3][0m 
+[35C[0m[31m[1mIcons[0m[0m:[0m Tela-circle [GTK2/3][0m 
+[35C[0m[31m[1mTerminal[0m[0m:[0m script[0m 
+[35C[0m[31m[1mCPU[0m[0m:[0m AMD Ryzen 5 3600 (12) @ 3.950GHz[0m 
+[35C[0m[31m[1mGPU[0m[0m:[0m AMD ATI Radeon RX 5600 OEM/5600 XT / 5700/5700 XT[0m 
+[35C[0m[31m[1mMemory[0m[0m:[0m 4342MiB / 15980MiB[0m 
+
+[35C[30m[40m   [31m[41m   [32m[42m   [33m[43m   [34m[44m   [35m[45m   [36m[46m   [37m[47m   [m
+[35C[38;5;8m[48;5;8m   [38;5;9m[48;5;9m   [38;5;10m[48;5;10m   [38;5;11m[48;5;11m   [38;5;12m[48;5;12m   [38;5;13m[48;5;13m   [38;5;14m[48;5;14m   [38;5;15m[48;5;15m   [m
+
+
+[?25h[?7h[1m[7m%[27m[1m[0m                                                                                          ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/112]1;..022/part1/112[0m[27m[24m[J[01;32m➜  [36m112[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[32ml[39m[32ml[32ms[39m[?1l>[?2004l
+]2;ls --color=tty]1;ls[0m[01;34mlog-output[0m  [01;34mmanifests[0m  persistentvolume.yaml  [01;34mpingpong[0m  typescript112
+[1m[7m%[27m[1m[0m                                                                                          ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/112]1;..022/part1/112[0m[27m[24m[J[01;32m➜  [36m112[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[32ml[39m[32ml[32ms[39m [4mm[24m[4mm[4ma[24m[4ma[4mnifests[1m[4m/[0m[24m[4ms[24m[0m[24m [?1l>[?2004l
+]2;ls --color=tty manifests]1;lsdeployment.yaml  log-outputservice.yaml      pingpongservice.yaml
+ingress.yaml     persistentvolumeclaim.yaml
+[1m[7m%[27m[1m[0m                                                                                          ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/112]1;..022/part1/112[0m[27m[24m[J[01;32m➜  [36m112[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[1m[31mc[0m[39m[1m[31mc[1m[31ma[0m[39m[0m[32mc[0m[32ma[32mt[39m [4mp[24m[4mp[4me[24m[4me[4mrsistentvolume.yaml[24m[1m [0m[0m [?1l>[?2004l
+]2;cat persistentvolume.yaml]1;catapiVersion: v1
+kind: PersistentVolume
+metadata:
+  name: volume112
+spec:
+  storageClassName: manual
+  capacity:
+    storage: 1Gi # Could be e.q. 500Gi. Small amount is to preserve space when testing locally
+  volumeMode: Filesystem # This declares that it will be mounted into pods as a directory
+  accessModes:
+  - ReadWriteOnce
+  local:
+    path: /tmp/kube
+  nodeAffinity: ## This is only required for local, it defines which nodes can access it
+    required:
+      nodeSelectorTerms:
+      - matchExpressions:
+        - key: kubernetes.io/hostname
+          operator: In
+          values:
+          - k3d-k3s-default-agent-0
+[1m[7m%[27m[1m[0m                                                                                          ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/112]1;..022/part1/112[0m[27m[24m[J[01;32m➜  [36m112[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[1m[31mc[0m[39m[1m[31mc[1m[31ma[0m[39m[0m[32mc[0m[32ma[32mt[39m [4mm[24m[4mm[4manifests[1m[4m/[0m[24m[0m[4m/[4mp[24m[11D[24mm[24ma[24mn[24mi[24mf[24me[24ms[24mt[24ms[24m/[24mp
+[J[0mpersistentvolumeclaim.yaml  [Jpingpongservice.yaml      [J[A[0m[27m[24m[20C[32mcat[39m manifests/p[K[11D[4mm[4ma[4mn[4mi[4mf[4me[4ms[4mt[4ms[4m/[4mp[4me[24m[4me[4mrsistentvolumeclaim.yaml[24m[1m [0m[0m [?1l>[?2004l
+[J]2;cat manifests/persistentvolumeclaim.yaml]1;catapiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: volume-claim
+spec:
+  storageClassName: manual
+  accessModes:
+    - ReadWriteOnce
+  resources:
+    requests:
+      storage: 1Gi
+[1m[7m%[27m[1m[0m                                                                                          ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/112]1;..022/part1/112[0m[27m[24m[J[01;32m➜  [36m112[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[1m[31mc[0m[39m[1m[31mc[1m[31ma[0m[39m[0m[32mc[0m[32ma[32mt[39m [4mm[24m[4mm[4ma[24m[4ma[4mnifests[1m[4m/[0m[24m[0m[4m/[4md[24m[4md[4me[24m[4me[4mployment.yaml[24m[1m [0m[0m [?1l>[?2004l
+]2;cat manifests/deployment.yaml]1;catapiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: ex112 
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: ex112
+  template:
+    metadata:
+      labels:
+        app: ex112
+    spec:
+      volumes:
+        - name: volume112
+          persistentVolumeClaim:
+            claimName: volume-claim
+      containers:
+        - name: log-output
+          image: maroctamorg/log-output:latest
+          volumeMounts:
+            - name: volume112
+              mountPath: /srv/log-output/shared
+        - name: pingpong
+          image: maroctamorg/pingpong:latest
+          volumeMounts:
+            - name: volume112
+              mountPath: /srv/ping/shared
+[1m[7m%[27m[1m[0m                                                                                          ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/112]1;..022/part1/112[0m[27m[24m[J[01;32m➜  [36m112[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[1m[31mk[0m[39m[1m[31mk[1m[31mu[0m[39m[1m[31mk[1m[31mu[1m[31mb[0m[39m[0m[32mk[0m[32mu[0m[32mb[32mectl[39m[1m [0m[0m apply -f [4mmanifests[24m[9D[4mp[4me[4mr[4ms[4mi[4ms[4mt[4me[4mn[4mtvolume.yaml[24m[?1l>[?2004l
+]2;kubectl apply -f persistentvolume.yaml]1;kubectlpersistentvolume/volume112 created
+[1m[7m%[27m[1m[0m                                                                                          ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/112]1;..022/part1/112[0m[27m[24m[J[01;32m➜  [36m112[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[1m[31mk[0m[39m[1m[31mk[1m[31mu[0m[39m[0m[32mk[0m[32mu[32mbectl[39m apply -f [4mpersistentvolume.yaml[24m[30Ddelete -f[24m [4mp[4me[4mr[4ms[4mi[4ms[4mt[4me[4mn[4mt[4mv[4mo[4ml[4mu[4mm[4me[4m.[4my[4ma[4mm[4ml[24m[21D[4mp[24m[24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [20D[4mp[4mersistentvolume.yaml[24m[31Dapply[P[25C [4mm[24m[24m [4ma[24m[24m [4my[24m[24m [4m.[24m[24m [4me[24m[24m [4mm[24m[24m [4mu[24m[24m [4ml[24m[24m [4mo[24m[24m [4mv[24m[24m [4mt[24m[24m [4mn[24m[24m [4me[24m[24m [4mt[24m[24m [4ms[24m[24m [4mi[24m[24m [4ms[24m[24m [4mr[24m[24m [4me[24m[24m [4mp[24m[24m [24m [4mm[24m[4mm[4manifests[1m[4m/[0m[24m[4ms[24m[0m[24m [?1l>[?2004l
+]2;kubectl apply -f manifests]1;kubectldeployment.apps/ex112 created
+ingress.networking.k8s.io/ex112-ing created
+service/log-output-svc created
+persistentvolumeclaim/volume-claim created
+service/pingpong-svc created
+[1m[7m%[27m[1m[0m                                                                                          ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/112]1;..022/part1/112[0m[27m[24m[J[01;32m➜  [36m112[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[1m[31mk[0m[39m[1m[31mk[1m[31mu[0m[39m[1m[31mk[1m[31mu[1m[31mb[0m[39m[1m[31mb[1m[31me[0m[39m[0m[32mk[0m[32mu[0m[32mb[0m[32me[32mctl[39m[1m [0m[0m get [4mp[24m[24mpv[?1l>[?2004l
+]2;kubectl get pv]1;kubectlNAME        CAPACITY   ACCESS MODES   RECLAIM POLICY   STATUS   CLAIM                  STORAGECLASS   REASON   AGE
+volume112   1Gi        RWO            Retain           Bound    default/volume-claim   manual                  12s
+[1m[7m%[27m[1m[0m                                                                                          ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/112]1;..022/part1/112[0m[27m[24m[J[01;32m➜  [36m112[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[32mkubectl[39m get pvc[?1l>[?2004l
+]2;kubectl get pvc]1;kubectlNAME           STATUS   VOLUME      CAPACITY   ACCESS MODES   STORAGECLASS   AGE
+volume-claim   Bound    volume112   1Gi        RWO            manual         6s
+[1m[7m%[27m[1m[0m                                                                                          ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/112]1;..022/part1/112[0m[27m[24m[J[01;32m➜  [36m112[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[1m[31mk[0m[39m[1m[31mk[1m[31mu[0m[39m[1m[31mk[1m[31mu[1m[31mb[0m[39m[0m[32mk[0m[32mu[0m[32mb[32mectl[39m[1m [0m[0m get svc,ing[?1l>[?2004l
+]2;kubectl get svc,ing]1;kubectlNAME                     TYPE        CLUSTER-IP     EXTERNAL-IP   PORT(S)    AGE
+service/kubernetes       ClusterIP   10.43.0.1      <none>        443/TCP    3d
+service/log-output-svc   ClusterIP   10.43.94.192   <none>        2345/TCP   9s
+service/pingpong-svc     ClusterIP   10.43.68.7     <none>        2345/TCP   9s
+
+NAME                                  CLASS    HOSTS   ADDRESS                            PORTS   AGE
+ingress.networking.k8s.io/ex112-ing   <none>   *       172.19.0.2,172.19.0.3,172.19.0.4   80      9s
+[1m[7m%[27m[1m[0m                                                                                          ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/112]1;..022/part1/112[0m[27m[24m[J[01;32m➜  [36m112[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[1m[31mk[0m[39m[1m[31mk[1m[31mu[0m[39m[1m[31mk[1m[31mu[1m[31mb[0m[39m[1m[31mb[1m[31me[0m[39m[0m[32mk[0m[32mu[0m[32mb[0m[32me[32mctl[39m[1m [0m[0m get [4mp[24m[24mpo[?1l>[?2004l
+]2;kubectl get po]1;kubectlNAME                     READY   STATUS    RESTARTS   AGE
+ex112-56f9c56f65-kh9qq   2/2     Running   0          11s                                                                                                       ]1;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/112]1;..022/part1/112[0m[27m[24m[J[01;32m➜  [36m112[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[32mcurl[39m localhost:8081/ping[?1l>[?2004l
+]1;curl localhost:8081/ping]1;curl1[1m[7m%[27m[1m[0m                                                                                          ]1;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/112]1;..022/part1/112[0m[27m[24m[J[01;32m➜  [36m112[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[32mcurl[39m localhost:8081/ping[?1l>[?2004l
+]2;curl localhost:8081/ping]1;curl2[1m[7m%[27m[1m[0m                                                                                          ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/112]1;..022/part1/112[0m[27m[24m[J[01;32m➜  [36m112[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[32mcurl[39m localhost:8081/ping[?1l>[?2004l
+]2;curl localhost:8081/ping]1;curl3[1m[7m%[27m[1m[0m                                                                                          ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/112]1;..022/part1/112[0m[27m[24m[J[01;32m➜  [36m112[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[32mcurl[39m localhost:8081/ping   lo   o logs[?1l>[?2004l
+]2;curl localhost:8081/logs]1;curl{"status":"12:40:38 - 3df267aad9ae84d87c0e288f15c507c894e22cfa - Ping / Pongs: 3"}[1m[7m%[27m[1m[0m                                                                                          ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/112]1;..022/part1/112[0m[27m[24m[J[01;32m➜  [36m112[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[32mcurl[39m localhost:8081/logsping[?1l>[?2004l
+]2;curl localhost:8081/ping]1;curl4[1m[7m%[27m[1m[0m                                                                                          ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/112]1;..022/part1/112[0m[27m[24m[J[01;32m➜  [36m112[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[32mcurl[39m localhost:8081/pinglogs[?1l>[?2004l
+]2;curl localhost:8081/logs]1;curl{"status":"12:40:41 - 3df267aad9ae84d87c0e288f15c507c894e22cfa - Ping / Pongs: 4"}[1m[7m%[27m[1m[0m                                                                                          ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/112]1;..022/part1/112[0m[27m[24m[J[01;32m➜  [36m112[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[32mcurl[39m localhost:8081/logsping[?1l>[?2004l
+]2;curl localhost:8081/ping]1;curl5[1m[7m%[27m[1m[0m                                                                                          ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/112]1;..022/part1/112[0m[27m[24m[J[01;32m➜  [36m112[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[32mcurl[39m localhost:8081/pinglogs[?1l>[?2004l
+]2;curl localhost:8081/logs]1;curl{"status":"12:40:44 - 3df267aad9ae84d87c0e288f15c507c894e22cfa - Ping / Pongs: 5"}[1m[7m%[27m[1m[0m                                                                                          ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/112]1;..022/part1/112[0m[27m[24m[J[01;32m➜  [36m112[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[32mcurl[39m localhost:8081/logsping[?1l>[?2004l
+]2;curl localhost:8081/ping]1;curl6[1m[7m%[27m[1m[0m                                                                                          ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/112]1;..022/part1/112[0m[27m[24m[J[01;32m➜  [36m112[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[32mcurl[39m localhost:8081/ping[?1l>[?2004l
+]2;curl localhost:8081/ping]1;curl7[1m[7m%[27m[1m[0m                                                                                          ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/112]1;..022/part1/112[0m[27m[24m[J[01;32m➜  [36m112[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[32mcurl[39m localhost:8081/ping[?1l>[?2004l
+]2;curl localhost:8081/ping]1;curl8[1m[7m%[27m[1m[0m                                                                                          ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/112]1;..022/part1/112[0m[27m[24m[J[01;32m➜  [36m112[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[32mcurl[39m localhost:8081/ping[?1l>[?2004l
+]2;curl localhost:8081/ping]1;curl9[1m[7m%[27m[1m[0m                                                                                          ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/112]1;..022/part1/112[0m[27m[24m[J[01;32m➜  [36m112[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[32mcurl[39m localhost:8081/pinglogs[?1l>[?2004l
+]2;curl localhost:8081/logs]1;curl{"status":"12:40:47 - 3df267aad9ae84d87c0e288f15c507c894e22cfa - Ping / Pongs: 9"}[1m[7m%[27m[1m[0m                                                                                          ]2;magneto@corsair:~/programming/learning/devops-kubernetes-UH2022/part1/112]1;..022/part1/112[0m[27m[24m[J[01;32m➜  [36m112[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[?2004l
+
+Script done on 2022-07-04 15:40:50+03:00 [COMMAND_EXIT_CODE="0"]

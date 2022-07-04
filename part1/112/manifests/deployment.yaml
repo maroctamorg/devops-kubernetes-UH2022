@@ -1,0 +1,29 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: ex112 
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: ex112
+  template:
+    metadata:
+      labels:
+        app: ex112
+    spec:
+      volumes:
+        - name: volume112
+          persistentVolumeClaim:
+            claimName: volume-claim
+      containers:
+        - name: log-output
+          image: maroctamorg/log-output:latest
+          volumeMounts:
+            - name: volume112
+              mountPath: /srv/log-output/shared
+        - name: pingpong
+          image: maroctamorg/pingpong:latest
+          volumeMounts:
+            - name: volume112
+              mountPath: /srv/ping/shared

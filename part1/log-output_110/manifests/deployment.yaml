@@ -1,0 +1,28 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: log-output
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: log-output
+  template:
+    metadata:
+      labels:
+        app: log-output
+    spec:
+      volumes:
+        - name: log-volume
+          emptyDir: {}
+      containers:
+        - name: log-output-timestamp
+          image: maroctamorg/log-output-timestamp:latest
+          volumeMounts:
+            - name: log-volume
+              mountPath: /srv/log-output/shared
+        - name: log-output-server
+          image: maroctamorg/log-output-server:latest
+          volumeMounts:
+            - name: log-volume
+              mountPath: /srv/log-output/shared
